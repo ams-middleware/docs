@@ -51,7 +51,7 @@ No se puede versionar una Orden Standar si tiene órdenes relacionadas (cambio o
 * Al hacer clic en **"Aplicar"**:
   * La orden de devolución se versionará automáticamente.
   * El UID cambiará de **R1 a R2**.
-  * El estado cambiará de **Pendiente** a **Completado**.
+  * El estado cambiará de  completado a pendiente.
   * Se ofrecerá la opción de editar el versionado de la orden.
 
 {% hint style="warning" %}

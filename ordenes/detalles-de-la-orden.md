@@ -82,7 +82,7 @@ Aquí se muestran todas las órdenes relacionadas con el producto, incluyendo pe
 
 ## 4. Sección de Workflow
 
-La sección de Workflow detalla el proceso por el que pasa el producto o servicio desde la orden hasta la entrega. Incluye etapas como reserva de acciones, validación y normalización de datos, generación de envío, exo\_order\_push, orden completada, agregación de cliente al CRM, bas\_order\_push y workflow completado.
+La sección de Workflow detalla el proceso por el que pasa el producto o servicio desde la orden hasta la entrega. Incluye etapas como reserva de acciones, validación y normalización de datos, generación de envío, agregación de cliente al CRM,  y workflow completado.
 
 ## 5. Sección de Conectores
 

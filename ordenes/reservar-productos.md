@@ -16,7 +16,6 @@
 
 * **Ref Code (Código de referencia)**: Visualice el código de referencia de la orden.
 * **Type (Tipo)**: Información sobre el tipo de orden.
-* **Stock Reserve**: Indicador que confirma que se ha aplicado la reserva de stock para la orden.
 * **Tags (Etiquetas)**: Clasificación o categorización de la orden, que ayuda a organizar y filtrar.
 * **Created on (Creado el)**: Fecha en la que se creó la orden.
 * **Created By (Creado por)**: Nombre de la persona que creó la orden.

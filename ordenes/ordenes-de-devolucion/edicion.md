@@ -14,7 +14,7 @@ La edición de una orden de Devolución se puede realizar a través de dos méto
    * Selecciona la opción de "Editar".
 
 {% hint style="info" %}
-Los procedimientos de información general, facturación, envío, mensajería y pago son los mismos que se usan para crear una orden estándar. Si necesitas más detalles sobre estos pasos, puedes consultar el siguiente enlace: [https://app.gitbook.com/o/VI72cNjZu41Jwv40i2Us/s/hBvnKBYKvcBtcV6FEhAH/\~/changes/44/ordenes/ordenes-standard/creacion](https://app.gitbook.com/o/VI72cNjZu41Jwv40i2Us/s/hBvnKBYKvcBtcV6FEhAH/\~/changes/44/ordenes/ordenes-standard/creacion)
+Los procedimientos de información general, facturación, envío, mensajería y pago son los mismos que se usan para crear una orden estándar. Si necesitas más detalles sobre estos pasos, [haz clic aqui](https://docs.e-middleware.com/ordenes/ordenes-standard/creacion)
 {% endhint %}
 
 ### Acceder a la Sección de Productos

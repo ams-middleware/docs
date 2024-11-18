@@ -28,6 +28,7 @@
 ## Producto
 
 * [Listado](producto/listado.md)
+* [Page](producto/page.md)
 * [Vista de un producto base](producto/vista-de-un-producto-base.md)
 * [Vista de un producto simple](producto/vista-de-un-producto-simple.md)
 * [Exportación](producto/exportacion.md)

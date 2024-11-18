@@ -23,20 +23,6 @@ Después de que el archivo haya sido importado, se presentará la siguiente info
 
 ***
 
-## **Detalle del Evento**
-
-1. **Typ e (Tipo)**: Clasifica el proceso en dos categorías:
-
-* **Upload (Subir)**: Cuando estás subiendo información a la plataforma.
-* **Download (Descargar)**: Cuando deseas descargar información desde la plataforma.
-
-2. **Emitted by (Emitido por)**: Especifica el conector seleccionado o asignado automáticamente.
-3. **Created by (Creado por)**: Nombre del usuario que realizó la importación.
-4. **Created on (Creado en)**: Fecha y hora en que se llevó a cabo la importación.
-5. **Actions (Acciones)**: Las acciones que están disponibles dependerán del tipo de archivo importado.
-
-***
-
 ## Acciones para Archivos de Tipo Upload
 
 1. **Visualizar el archivo**
@@ -44,30 +30,31 @@ Después de que el archivo haya sido importado, se presentará la siguiente info
 2. **Procesar el archivo**
    * Al seleccionar esta opción, se abrirá un modal donde el usuario debe completar los campos requeridos. A continuación, se describen los pasos y opciones disponibles:
 
-## **Selección de Evento**
+**Importar Catálogo**
 
-### **Tipo de Evento:**
+* **Tipo de Importación**: El usuario debe elegir una de las siguientes opciones:
+  * **Crear**: Para agregar nuevos elementos al catálogo.
+  * **Actualizar**: Para modificar los elementos existentes.
+  * **Ambas**: Para realizar tanto la creación como la actualización en una sola operación.
 
-El usuario debe seleccionar uno de los siguientes eventos:
+**Importar Catálogo Externo**
 
-1. **Importar Catálogo**
-   * **Tipo de Importación**: El usuario debe elegir una de las siguientes opciones:
-     * **Crear**: Para agregar nuevos elementos al catálogo.
-     * **Actualizar**: Para modificar los elementos existentes.
-     * **Ambas**: Para realizar tanto la creación como la actualización en una sola operación.
-2. **Importar Catálogo Externo**
-   * **Conector**: El usuario debe seleccionar un conector, eligiendo entre las siguientes opciones:
-     * **Salesforce**: Para importar datos desde la plataforma de Salesforce.
-     * **Mercado Libre**: Para importar datos desde Mercado Libre.
-   * **Tipo de Importación**: Al igual que en la opción anterior, el usuario debe elegir entre:
-     * **Crear**
-     * **Actualizar**
-     * **Ambas**
-3. **Pull Productos**
-   * **Conector**: El usuario debe seleccionar un conector de entre:
-     * **Salesforce**
-     * **Mercado Libre**
-     *
+* **Conector**: El usuario debe seleccionar un conector, eligiendo entre las siguientes opciones:
+  * **Salesforce**: Para importar datos desde la plataforma de Salesforce.
+  * **Mercado Libre**: Para importar datos desde Mercado Libre.
+
+**Tipo de Importación**: Al igual que en la opción anterior, el usuario debe elegir entre:
+
+* **Crear**
+* **Actualizar**
+* **Ambas**
+
+**Pull Productos**
+
+* **Conector**: El usuario debe seleccionar un conector de entre:
+  * **Salesforce**
+  * **Mercado Libre**
+  *
 
 ***
 
@@ -77,8 +64,3 @@ Si el archivo es de tipo **Download**, el usuario tendrá las siguientes opcione
 
 1. **Descargar el archivo cargado en el MW**: Podrás obtener el archivo que fue cargado en la plataforma.
 2. **Eliminar el archivo**: Opción para eliminar el archivo importado de la plataforma.
-
-
-
-
-

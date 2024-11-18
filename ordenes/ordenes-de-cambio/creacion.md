@@ -3,7 +3,7 @@
 A continuación, se describen los pasos a seguir para crear una orden de cambio a partir de una orden estándar, teniendo en cuenta que la orden estándar debe estar en estado completado.
 
 {% hint style="info" %}
-Los procedimientos de información general, facturación, envío, mensajería y pago son los mismos que se usan para crear una orden estándar. Si necesitas más detalles sobre estos pasos, puedes consultar el siguiente enlace: [https://app.gitbook.com/o/VI72cNjZu41Jwv40i2Us/s/hBvnKBYKvcBtcV6FEhAH/\~/changes/44/ordenes/ordenes-standard/creacion](https://app.gitbook.com/o/VI72cNjZu41Jwv40i2Us/s/hBvnKBYKvcBtcV6FEhAH/\~/changes/44/ordenes/ordenes-standard/creacion)
+Los procedimientos de información general, facturación, envío, mensajería y pago son los mismos que se usan para crear una orden estándar. Si necesitas más detalles sobre estos pasos, [haz clic aqui](https://docs.e-middleware.com/ordenes/ordenes-standard/creacion)
 {% endhint %}
 
 1. **Acceder a la Orden Estándar:**
