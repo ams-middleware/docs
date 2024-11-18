@@ -2,7 +2,7 @@
 description: Pasos básicos para importar un producto.
 ---
 
-# Importación&#x20;
+# ⬇️ Importación&#x20;
 
 ## &#x20;**Selección del Archivo**
 
@@ -54,7 +54,6 @@ Después de que el archivo haya sido importado, se presentará la siguiente info
 * **Conector**: El usuario debe seleccionar un conector de entre:
   * **Salesforce**
   * **Mercado Libre**
-  *
 
 ***
 

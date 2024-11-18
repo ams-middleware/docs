@@ -2,7 +2,7 @@
 description: Pasos básicos para la Exportación de un Producto
 ---
 
-# Exportación
+# ⬆️ Exportación
 
 ## **Paso 1: Acceder al Listado de Productos:**
 
