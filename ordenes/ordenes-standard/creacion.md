@@ -1,5 +1,5 @@
 ---
-description: 'En la creación de una orden standar están los siguientes pasos a seguir:'
+description: 'En la creación de una orden standard están los siguientes pasos a seguir:'
 ---
 
 # 🆕 Creación

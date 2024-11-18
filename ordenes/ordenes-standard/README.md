@@ -1,7 +1,7 @@
 # 📄 Ordenes Standard
 
 {% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
+En el contexto de Middleware, una orden representa un registro detallado de una transacción comercial. Este registro abarca información crucial sobre la adquisición de productos por parte del cliente, incluyendo los artículos seleccionados, la información de pago y los datos de envío. El sistema Middleware está diseñado para gestionar eficientemente órdenes provenientes de diversas plataformas, asegurando un procesamiento fluido de las transacciones. Adicionalmente, el Middleware ofrece la funcionalidad de crear órdenes estándar directamente desde su interfaz.
 {% endhint %}
 
 ## Como Crear una orden standard
