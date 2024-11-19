@@ -1,5 +1,6 @@
 ---
 description: 'Para visualizar el detalle del importador, sigue estos pasos:'
+icon: memo-circle-info
 ---
 
 # Detalles del importador

@@ -1,3 +1,7 @@
+---
+icon: rectangle-history
+---
+
 # Multimedia
 
 ## **Elementos Disponibles en la Pantalla:**

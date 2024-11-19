@@ -1,3 +1,7 @@
+---
+icon: memo-circle-info
+---
+
 # Sección de Detalles
 
 En la sección de detalles de un producto dentro del sistema Middleware, se presenta una serie de información esencial que permite al cliente conocer a fondo las características del producto que está considerando adquirir. A continuación, se detalla cada uno de los elementos incluidos:
@@ -11,3 +15,4 @@ En la sección de detalles de un producto dentro del sistema Middleware, se pres
 * Tipo: Si es tipo Base o Simple.
 * **Estado**:  Activo o Inactivo.
 * **Atributos personalizados según la necesidad del cliente**
+
