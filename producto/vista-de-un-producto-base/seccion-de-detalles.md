@@ -14,5 +14,5 @@ En la sección de detalles de un producto dentro del sistema Middleware, se pres
 * **UPC** : Un código de barras que permite la identificación rápida del producto.
 * Tipo: Si es tipo Base o Simple.
 * **Estado**:  Activo o Inactivo.
-* **Atributos personalizados según la necesidad del cliente**
+* **Atributos** personalizados según la necesidad del cliente.
 
