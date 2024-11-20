@@ -12,7 +12,7 @@ En la sección de detalles de un producto dentro del sistema Middleware, se pres
 * **Marca**: La marca o fabricante del producto.
 * **SKU** : Un código que se utiliza para gestionar el inventario y facilitar el seguimiento de las existencias de cada producto.
 * **UPC** : Un código de barras que permite la identificación rápida del producto.
-* Tipo: Si es tipo Base o Simple.
+* **Tipo**: Si es tipo Base o Simple.
 * **Estado**:  Activo o Inactivo.
 * **Atributos** personalizados según la necesidad del cliente.
 

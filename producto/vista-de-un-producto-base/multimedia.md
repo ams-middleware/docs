@@ -4,7 +4,7 @@ icon: rectangle-history
 
 # Multimedia
 
-Para editar un set de imagen el usuario deberá ir al Listado de Multimedia. Para mas información de como cargar un set de imagen,[ Haz clic aquí](https://docs.e-middleware.com/producto/multimedia)
+Para editar un set de imágenes, el usuario deberá ir al Listado de Multimedia. Para más información sobre cómo cargar un set de imágenes,[ Haz clic aquí](https://docs.e-middleware.com/producto/multimedia)
 
-Desde la sección de detalles el usuario puede editar el set de imagen solo si no se encuentra cargada en multimedia dando clic en el botón "editar" y se abrirá un modal que presentara los mismos campos que debe cargar en Multimedia.
+En la sección de detalles, el usuario puede editar el set de imágenes solo si este no se encuentra cargado en multimedia. Para hacerlo, debe hacer clic en el botón "Editar", lo que abrirá un modal con los mismos campos que se deben completar en Multimedia.
 

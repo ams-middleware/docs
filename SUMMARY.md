@@ -34,6 +34,7 @@
   * [Multimedia](producto/vista-de-un-producto-base/multimedia.md)
   * [🔄 Sincronización](producto/vista-de-un-producto-base/sincronizacion.md)
   * [Sección de Variantes](producto/vista-de-un-producto-base/seccion-de-variantes.md)
+  * [Sección de Conectores](producto/vista-de-un-producto-base/seccion-de-conectores.md)
 * [👁️‍🗨️ Vista de un producto simple](producto/vista-de-un-producto-simple/README.md)
   * [Sección de Detalles](producto/vista-de-un-producto-simple/seccion-de-detalles.md)
   * [✏️ Edición ](producto/vista-de-un-producto-simple/edicion.md)

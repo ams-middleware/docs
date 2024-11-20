@@ -1,6 +1,6 @@
 # ✏️ Edición&#x20;
 
-En la sección de Detalles del Producto, se ofrece al usuario una interfaz  para editar la información del producto. Al hacer clic en el **Botón de Edición**, se habilitan varios campos relevantes para modificación. A continuación, se detallan las opciones disponibles para editar:
+Se ofrece al usuario una interfaz  para editar la información del producto. Al hacer clic en el **Botón de Edición**, se habilitan varios campos relevantes para modificación. A continuación, se detallan las opciones disponibles para editar:
 
 * **Nombre:** Permite cambiar el nombre del producto.
 * **SKU :** Permite actualizar el SKU del producto
