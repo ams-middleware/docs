@@ -11,7 +11,7 @@ En el listado de órdenes tenemos la opción de sincronizar en la botonera que e
 <figure><img src="../.gitbook/assets/Peek 2024-12-02 10-43.gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Esta opción solo se utiliza en caso especial donde la orden deba de actualizarse a su estado original o cuando se necesita ingresar a e-Middleware una orden por falta de pago.
+Esta opción solo se debe utilizar en casos especiales donde la orden deba de actualizarse o  ingresar a e-Middleware  por falta de pago.
 {% endhint %}
 
 ### ¿Cómo obtener el ref code desde Magento?
