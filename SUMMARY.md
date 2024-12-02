@@ -20,6 +20,7 @@
 * [🔄 Status de Ordenes](ordenes/status-de-ordenes.md)
 * [🤖 Workflow](ordenes/workflow.md)
 * [ℹ️ Preguntas Frecuentes](ordenes/preguntas-frecuentes.md)
+* [Sincronizar Orden](ordenes/sincronizar-orden.md)
 
 ## About
 
