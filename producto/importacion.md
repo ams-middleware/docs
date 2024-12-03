@@ -54,6 +54,8 @@ Después de que el archivo haya sido importado, se presentará la siguiente info
 * **Conector**: El usuario debe seleccionar un conector de entre:
   * **Salesforce**
   * **Mercado Libre**
+  * **Magento**
+  * **Tienda Nube**
 
 ***
 
