@@ -22,10 +22,6 @@
 * [ℹ️ Preguntas Frecuentes](ordenes/preguntas-frecuentes.md)
 * [Sincronizar Orden](ordenes/sincronizar-orden.md)
 
-## About
-
-* [Release Note](about/release-note.md)
-
 ## Producto
 
 * [Listado](producto/listado.md)
@@ -49,3 +45,11 @@
 * [⬇️ Importación ](producto/importacion.md)
 * [Detalles del importador](producto/detalles-del-importador.md)
 * [Multimedia](producto/multimedia.md)
+
+## About
+
+* [Release Note](about/release-note.md)
+
+## Autenticación
+
+* [Cambio de contraseña](autenticacion/cambio-de-contrasena.md)
