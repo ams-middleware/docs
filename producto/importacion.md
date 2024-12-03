@@ -40,8 +40,10 @@ Después de que el archivo haya sido importado, se presentará la siguiente info
 **Importar Catálogo Externo**
 
 * **Conector**: El usuario debe seleccionar un conector, eligiendo entre las siguientes opciones:
-  * **Salesforce**: Para importar datos desde la plataforma de Salesforce.
-  * **Mercado Libre**: Para importar datos desde Mercado Libre.
+  * **Salesforce**
+  * **Mercado Libre**
+  * **Magento**
+  * **Tienda Nube**
 
 **Tipo de Importación**: Al igual que en la opción anterior, el usuario debe elegir entre:
 
