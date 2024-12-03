@@ -51,7 +51,7 @@ Una vez que todos los campos estén completados, tienes dos opciones:
 
 ***
 
-## Paso 5: Instrucciones para Exportar un Producto
+## Paso 5: Instrucciones para Exportar
 
 1. **Acceder a la Opción de Exportación:**
    * Haz clic en los tres puntos (:) a la derecha del buscador de productos.
