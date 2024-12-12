@@ -11,6 +11,8 @@ A continuación se presentan los campos que el usuario deberá completar:&#x20;
 1. **Código de referencia (Ref Code):** La plataforma genera automáticamente este código único para cada orden del cliente. Este identificador puede ser ajustado posteriormente para adaptarse a los requerimientos específicos del cliente.
 2. **Etiquetas (Tags):** Permiten clasificar o categorizar la orden.
 3. **Fecha de emisión:** Indique la fecha en la que se generó o emitió este registro.
+4. Store: El usuario debera seleccionar el destino de la orden.
+5. Estado: Indica el estado en que se encuentra la orden, Pendiente o Completado.
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
 

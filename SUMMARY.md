@@ -5,6 +5,7 @@
 ## Ordenes
 
 * [🔎 Buscardor de Ordenes](ordenes/buscardor-de-ordenes.md)
+* [Listado de Ordenes](ordenes/listado-de-ordenes.md)
 * [📄 Ordenes Standard](ordenes/ordenes-standard/README.md)
   * [🆕 Creación](ordenes/ordenes-standard/creacion.md)
   * [✏️ Edición](ordenes/ordenes-standard/edicion.md)
@@ -29,7 +30,8 @@
   * [Sección de Detalles](producto/vista-de-un-producto-base/seccion-de-detalles.md)
   * [✏️ Edición](producto/vista-de-un-producto-base/edicion.md)
   * [Multimedia](producto/vista-de-un-producto-base/multimedia.md)
-  * [🔄 Sincronización](producto/vista-de-un-producto-base/sincronizacion.md)
+  * [🔄 Sincronización de Catalogo](producto/vista-de-un-producto-base/sincronizacion-de-catalogo.md)
+  * [🔄 Sincronización de Inventario](producto/vista-de-un-producto-base/sincronizacion-de-inventario.md)
   * [Sección de Variantes](producto/vista-de-un-producto-base/seccion-de-variantes.md)
   * [Sección de Conectores](producto/vista-de-un-producto-base/seccion-de-conectores.md)
 * [👁️‍🗨️ Vista de un producto simple](producto/vista-de-un-producto-simple/README.md)

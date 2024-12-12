@@ -1,9 +1,9 @@
-# 🔄 Sincronización
+# 🔄 Sincronización de Catalogo
 
 Para realizar la sincronización de la información del producto desde la sección de detalles, sigue estos pasos detallados:
 
 1. **Haz Clic en el Botón de "Sincronización"**:
-   * Busca en la interfaz el botón etiquetado como "Sincronización". Este botón es tu puerta de entrada para gestionar la sincronización de los datos del producto.
+   * Busca en la interfaz el botón etiquetado como "Sincronización".&#x20;
 2. **Selecciona las Opciones de Sincronización**:
    * Al hacer clic en el botón "Sincronización", se abrirá un modal que te permitirá configurar las opciones necesarias para la sincronización.
 3. **Seleccionar un Conector**:
