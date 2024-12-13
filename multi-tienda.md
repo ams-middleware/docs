@@ -10,19 +10,25 @@ El **EMW** por defecto esta configurado para trabajar con multiples tiendas en s
 
 #### Proceso de Selección de Cliente y Tienda
 
-1. **Botón de Tienda:**
-   * En la parte superior de la plataforma, habrá un botón con el icono  de "Tienda". Este botón será visible y accesible para los usuarios.
-2. **Modal de Selección:**
-   * Al hacer clic en el botón con el icono de "Tienda", se abrirá un modal que permitirá a los usuarios realizar las selecciones necesarias.
-3. **Campos a Seleccionar:**
-   * **Seleccionar el Cliente:**
-     * Habrá un campo desplegable o un cuadro de búsqueda donde el usuario podrá buscar y seleccionar un cliente de una lista predefinida. Este campo puede incluir:
-       * Búsqueda por nombre del cliente.
-   * **Seleccionar la Tienda:**
-     *   A continuación, habrá un campo similar para seleccionar la tienda. Aquí, el usuario tendrá la opción de seleccionar una o varias tiendas.&#x20;
+1.  **Botón de Tienda:**
 
+    * En la parte superior de la plataforma, habrá un botón con el icono ![](.gitbook/assets/image.png). Este botón será visible y accesible para los usuarios.
 
-4. **Botón Aplicar:**
-   * Después de que el usuario haya seleccionado el cliente y las tiendas deseadas, deberá hacer clic en un botón etiquetado como "Aplicar" para confirmar sus elecciones.
-5. **Filtrado del Listado:**
-   * Una vez que el usuario haga clic en "Aplicar", el modal se cerrará y el sistema actualizará el listado principal, filtrando la información para mostrar solo los datos relacionados con el cliente y las tiendas seleccionadas.
+    <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+2.  **Modal de Selección:**
+
+    * Al hacer clic en el botón con el icono de "Tienda", se abrirá un modal que permitirá a los usuarios realizar las selecciones necesarias.
+
+    <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+3.  **Campos a Seleccionar:**
+
+    * **Cliente:** por defecto tendra seleccionado el cliente registrado en la plataforma, si posee varios clientes asociados a su usuario podra cambiar el clinete a su prefrerencia solo seleccionandolo en el select
+
+    <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+    *   **Tienda:** una vez seleccionado el cliente de su preferencia el sistema le indicara las tiendas asociadas de ese cliente y podra seleccionar del listado las que desee gestionar!
+
+        <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+4.  **Botón Aplicar:** una vez seleccionado el cliente y las tienes a administrar precione em "**Aplicar**"
+
+    <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

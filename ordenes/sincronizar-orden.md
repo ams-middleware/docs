@@ -18,13 +18,13 @@ Esta opción solo se debe utilizar en casos especiales donde la orden deba de ac
 
 Buscaremos la orden a sincronizar y visualizaremos su detalle. En la URL de la orden encontraremos el ref code que necesitaremos para sincronizar la orden.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### ¿Cómo obtener el ref code desde Salesforce?
 
 En el listado de órdenes en Salesforce buscaremos la orden a sincronizar. Desde el detalle de la misma obtendremos el ref code.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
