@@ -1,3 +1,7 @@
+---
+icon: store
+---
+
 # Multi-Tienda
 
 #### Proceso de Selección de Cliente y Tienda

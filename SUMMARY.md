@@ -1,12 +1,16 @@
 # Table of contents
 
 * [E-MW](README.md)
+* [Multi-Tienda](multi-tienda.md)
+
+## Seguridad
+
+* [Cambio de contraseña](seguridad/cambio-de-contrasena.md)
 
 ## Ordenes
 
 * [🔎 Buscardor de Ordenes](ordenes/buscardor-de-ordenes.md)
 * [Listado de Ordenes](ordenes/listado-de-ordenes.md)
-* [Multi-Tienda](ordenes/multi-tienda.md)
 * [📄 Ordenes Standard](ordenes/ordenes-standard/README.md)
   * [🆕 Creación](ordenes/ordenes-standard/creacion.md)
   * [✏️ Edición](ordenes/ordenes-standard/edicion.md)
@@ -49,10 +53,6 @@
 * [⬇️ Importación ](productos/importacion.md)
 * [Detalles del importador](productos/detalles-del-importador.md)
 * [Multimedia](productos/multimedia.md)
-
-## Autenticación
-
-* [Cambio de contraseña](autenticacion/cambio-de-contrasena.md)
 
 ## About
 
