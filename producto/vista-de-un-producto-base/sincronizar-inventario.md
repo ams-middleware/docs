@@ -1,17 +1,42 @@
-# 🔄 Sincronización de Inventario
+# 🔄 Sincronizar Inventario
 
 Para realizar la sincronización de inventario, sigue estos pasos:
 
-1. **Haz clic en el botón de "Sincronizar":**
-   * Busca en la interfaz el botón etiquetado como **"Sincronizar"** y haz clic en él para acceder a la sección de inventario.
-2. **Modal de inventario:**
-   * Al seleccionar la opción de inventario, se abrirá un modal que te permitirá seleccionar las opciones necesarias para la sincronización.
-3. **Seleccionar un conector:**
-   * Dentro del modal, elige el conector que deseas utilizar para la sincronización de inventario.
-4. **Opciones a sincronizar:**
-   * **Stock:** Esta opción estará seleccionada por defecto en la plataforma.
-   * **Precio (Opcional):** El usuario puede seleccionar esta opción si desea incluir la sincronización de precios.
-5. **Aplicar o cerrar:**
-   * Una vez que hayas completado todos los campos necesarios, tendrás dos opciones:
-     * **"Aplicar":** Si deseas proceder con la sincronización de inventario.
-     * **"Cerrar":** Si decides no continuar con el proceso.
+1.  **Haz clic en el botón "Sincronizar":**
+
+    * Localiza y haz clic en el botón **"Sincronizar"** en la interfaz para acceder a la sección de inventario.
+
+    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+2.  **Modal de inventario:**
+
+    * Se abrirá una ventana modal con las opciones de sincronización disponibles.
+
+    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+3.  **Seleccionar un conector:**
+
+    * En el modal, selecciona el conector que usarás para sincronizar el inventario.
+
+    <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+4.  **Opciones a sincronizar:**
+
+    * **Stock:** Opción preseleccionada por defecto.
+    * **Precio (Opcional):** Puedes activar esta opción si necesitas sincronizar precios.
+
+    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+5.  **Aplicar o cerrar:**
+
+    * Después de configurar las opciones, elige:
+      * **"Aplicar":** Para ejecutar la sincronización.
+      * **"Cerrar":** Para cancelar el proceso.
+
+    <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+6.  **Sincronizando:**
+
+    * Una vez presionado el botón "Aplicar", el servicio comenzará el proceso de sincronización
+
+    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+7.  **Procesado:**
+
+    * Una vez el servicio culmine mostrara una alerta indicando "Sincronización Exitoxa", el servicio comenzará el proceso de sincronización
+
+    <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
