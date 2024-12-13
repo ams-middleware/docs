@@ -3,7 +3,7 @@
 Para realizar la sincronización de inventario como de precio, **realice los siguientes pasos:**
 
 {% hint style="info" %}
-<mark style="color:blue;">**Pasos previos**</mark><mark style="color:blue;">,</mark> ingresar al producto de su preferencia desde el [listado de productos](../listado.md) e ingresar a la [vista de detalle](seccion-de-detalles.md) &#x20;
+<mark style="color:blue;">**Pasos previos**</mark><mark style="color:blue;">,</mark> ingresar al producto de su preferencia desde el [listado de productos](../listado-de-productos.md) e ingresar a la [vista de detalle](seccion-de-detalles.md) &#x20;
 {% endhint %}
 
 {% hint style="warning" %}
