@@ -49,10 +49,10 @@
 * [Detalles del importador](producto/detalles-del-importador.md)
 * [Multimedia](producto/multimedia.md)
 
-## About
-
-* [Release Note](about/release-note.md)
-
 ## Autenticación
 
 * [Cambio de contraseña](autenticacion/cambio-de-contrasena.md)
+
+## About
+
+* [Release Note](about/release-note.md)
