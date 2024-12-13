@@ -4,6 +4,10 @@ icon: store
 
 # Multi-Tienda
 
+{% hint style="info" %}
+El **EMW** por defecto esta configurado para trabajar con multiples tiendas en simultaneo, para optar a configurar nuevas tiendas [_comuniquese con soporte_](https://app.gitbook.com/u/SvK4k8Van9ObqOAT0tcYT4b4pbk2)!&#x20;
+{% endhint %}
+
 #### Proceso de Selección de Cliente y Tienda
 
 1. **Botón de Tienda:**
