@@ -19,7 +19,7 @@ El **EMW** por defecto esta configurado para trabajar con multiples tiendas en s
 
     * Al hacer clic en el botón con el icono de "Tienda", se abrirá un modal que permitirá a los usuarios realizar las selecciones necesarias.
 
-    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image.png" alt="" width="451"><figcaption></figcaption></figure>
 3.  **Campos a Seleccionar:**
 
     * **Cliente:** por defecto tendra seleccionado el cliente registrado en la plataforma, si posee varios clientes asociados a su usuario podra cambiar el clinete a su prefrerencia solo seleccionandolo en el select
