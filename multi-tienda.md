@@ -26,9 +26,12 @@ El **EMW** por defecto esta configurado para trabajar con multiples tiendas en s
 
     <div align="center" data-full-width="false"><figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
 
-    *   **Tienda:** una vez seleccionado el cliente de su preferencia el sistema le indicara las tiendas asociadas de ese cliente y podra seleccionar del listado las que desee gestionar!
+    * **Tienda:** una vez seleccionado el cliente de su preferencia el sistema le indicara las tiendas asociadas de ese cliente y podra seleccionar del listado las que desee gestionar!
 
-        <div data-full-width="false"><figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
-4.  **Botón Aplicar:** una vez seleccionado el cliente y las tienes a administrar precione em "**Aplicar**"
 
-    <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+    <div data-full-width="false"><figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+
+    * **Botón Aplicar:** una vez seleccionado el cliente y las tienes a administrar precione em "**Aplicar**"
+
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
