@@ -45,7 +45,7 @@ Si realiza el proceso desde un producto **"base"** el servicio actualizara de fo
     <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 7.  **Procesado:**
 
-    * Una vez el servicio culmine mostrara una alerta indicando "Sincronización Exitoxa", el servicio comenzará el proceso de sincronización
+    * Una vez el servicio culmine mostrara una alerta indicando "Sincronización Exitoxa"
 
     <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
