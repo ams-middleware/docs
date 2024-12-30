@@ -6,6 +6,7 @@
 ## Seguridad
 
 * [Cambio de contraseña](seguridad/cambio-de-contrasena.md)
+* [Olvidar Contraseña](seguridad/olvidar-contrasena.md)
 
 ## Ordenes
 
