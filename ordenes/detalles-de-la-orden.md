@@ -8,7 +8,7 @@ La sección de detalles presenta una botonera con las siguientes opciones:
 
 ## **1. Sección de Detalles**
 
-**Cambiar Status:**
+1. **Cambiar Status:**
 
 Al hacer clic en "Cambiar Status", se abrirá una ventana donde podrá seleccionar el nuevo status para la orden. Las opciones disponibles son:
 
@@ -20,34 +20,34 @@ Al hacer clic en "Cambiar Status", se abrirá una ventana donde podrá seleccion
 
 Tras seleccionar el estado, tendrá las opciones de **Aplicar** o **Cerrar**. Haga clic en "Aplicar" para confirmar el cambio o en "Cerrar" para cancelar la acción.
 
-**Editar la Orden:**
+2. **Editar la Orden:**
 
 Permite modificar los datos de la orden según sea necesario.
 
-**Reservar Stock de la Orden:**
+3. **Reservar Stock de la Orden:**
 
 Asegura la disponibilidad de los productos incluidos en la orden.
 
-**Procesar la Orden:**
+4. **Procesar la Orden:**
 
 Inicia el procesamiento de la orden directamente desde esta sección, agilizando el flujo de trabajo.
 
-**Versionar la Orden:**
+5. **Versionar la Orden:**
 
 Crea una nueva versión de la orden actual para realizar un seguimiento de cambios.
 
-**Actualizar Datos de la Orden:**
+6. **Actualizar Datos de la Orden:**
 
 Refresca la información visible para reflejar posibles cambios en el sistema.
 
-**Opciones Adicionales**
+7. **Opciones Adicionales**
 
 **Workflow:**
 
 * **Procesar Manual:** Permite procesar la orden de forma manual.
 * **Eliminar:** Borra la orden de la base de datos.
 
-**Otras Acciones:**
+8. **Otras Acciones:**
 
 * **Obtener Orden:** Extrae información adicional relacionada con la orden.
 * **Normalizar:** Ajusta la orden según los parámetros establecidos en el sistema.
