@@ -3,7 +3,7 @@
 Esta sección de conectores muestra información que incluye:
 
 * Buscador
-* Boton para refrescar la vista
+* Botón para refrescar la vista
 * **UID del Conector**: Identificador único del conector.
 * **Nombre:** Nombre descriptivo del conector.
 * **Activo**: Indica si el conector está activo (Sí/No).
