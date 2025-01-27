@@ -8,6 +8,9 @@ icon: rectangle-history
 
 1. **Buscador**:
    * Campo de búsqueda donde el usuario puede ingresar un código para encontrar un producto.
+   * Botón para exportar.
+   * Botón para limpiar.
+   * Boton para refrescar la vista.
 
 ***
 
@@ -31,12 +34,13 @@ icon: rectangle-history
 El usuario puede elegir entre dos métodos para añadir la imagen:
 
 1. **Arrastrar y soltar**:
-   * El usuario puede arrastrar la imagen desde su dispositivo y soltarla en el cuadro correspondiente.
-2.  **Cargar a través de un enlace**:
+   * El usuario puede arrastrar la imagen o video desde su dispositivo y soltarla en el cuadro correspondiente.
+2. **Cargar a través de un enlace**:
+   * El usuario puede ingresar un enlace directo a la imagen en un campo habilitado.
 
-    * El usuario puede ingresar un enlace directo a la imagen en un campo habilitado.
-
-
+{% hint style="info" %}
+El usuario solo podrá cargar (8) Imágenes y (2) Videos.
+{% endhint %}
 
 ***
 
