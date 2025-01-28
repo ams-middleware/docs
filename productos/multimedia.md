@@ -46,7 +46,12 @@ El usuario solo podrá cargar (8) Imágenes y (2) Videos.
 
 ## **Paso 3: Galería**
 
-* En la parte inferior del modal, se mostrará una **galería** que incluirá la imagen que el usuario ha añadido.
-* Las imágenes cargadas se visualizarán claramente, permitiendo al usuario confirmar que ha añadido el contenido correcto.
+En la parte inferior del modal, se presentará una **galería** que mostrará la imagen que el usuario ha añadido, junto con cualquier otra imagen que haya cargado.&#x20;
 
-Para continuar, haga clic en "Aplicar". Si desea cancelar, seleccione "Cerrar".
+1. **Visualización de Imágenes**:
+   * Las imágenes cargadas se mostrarán en miniaturas, con un diseño que facilita la identificación rápida de cada imagen.
+   * El usuario podra cambiar el orden de la imagen.
+2. **Interacción con la Imagen**:
+   * Al hacer clic en cualquier imagen de la galería, se abrirá un **modal de previsualización**. Este modal permitirá al usuario realizar las siguientes acciones:
+     * **Añadir un nombre a la imagen**: Se proporcionará un campo de texto donde el usuario podrá ingresar un nombre descriptivo para la imagen.
+     * **Seleccionar un Tags**: Habrá una opción para añadir etiquetas (tags) que describan la imagen. Esto  incluye un menú desplegable o un campo de texto donde se puedan ingresar múltiples etiquetas.
