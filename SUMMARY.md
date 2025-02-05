@@ -10,7 +10,6 @@
 
 ## Ordenes
 
-* [🔎 Buscardor de Ordenes](ordenes/buscardor-de-ordenes.md)
 * [Listado de Ordenes](ordenes/listado-de-ordenes.md)
 * [📄 Ordenes Standard](ordenes/ordenes-standard/README.md)
   * [🆕 Creación](ordenes/ordenes-standard/creacion.md)
@@ -54,6 +53,8 @@
 * [⬇️ Importación ](productos/importacion.md)
 * [Detalles del importador](productos/detalles-del-importador.md)
 * [Multimedia](productos/multimedia.md)
+* [CRM](productos/crm/README.md)
+  * [Listado](productos/crm/listado.md)
 
 ## About
 

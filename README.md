@@ -14,8 +14,8 @@ Estas características hacen de EMW una solución integral para empresas que bus
 
 ## Modulo de Ordenes
 
-{% content-ref url="ordenes/buscardor-de-ordenes.md" %}
-[buscardor-de-ordenes.md](ordenes/buscardor-de-ordenes.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="ordenes/ordenes-standard/" %}

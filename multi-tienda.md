@@ -32,6 +32,6 @@ El **EMW** por defecto esta configurado para trabajar con multiples tiendas en s
 
     <div data-full-width="false"><figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
 
-    * **Botón Aplicar:** una vez seleccionado el cliente y las tienes a administrar precione em "**Aplicar**"
+    * **Botón Aplicar:** una vez seleccionado el cliente y las tienes a administrar precione en "**Aplicar**"
 
 <figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
