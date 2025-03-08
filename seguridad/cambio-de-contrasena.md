@@ -4,35 +4,36 @@ icon: lock
 
 # Cambio de contraseña
 
-**Pasos para Iniciar Sesión y Restablecer la Contraseña**
+**Guía para Cambiar tu Contraseña**
 
-## **1. Acceder al Link de Login**
+## **1. Acceso al Sistema**
 
-* Abre tu navegador web y entra en el enlace de inicio de sesión proporcionado.
+* Ingresa a la plataforma a través del enlace de inicio de sesión proporcionado en tu navegador web.
 
-## **2. Iniciar Sesión**
+## **2. Autenticación**
 
-* Completa los campos requeridos:
-  * **Correo Electrónico**: Ingresa tu dirección de correo electrónico.
-  * **Contraseña**: Ingresa tu contraseña actual.
-* Haz clic en el botón **Iniciar Sesión**.
+* Ingresa tus credenciales actuales:
+  * **Correo Electrónico**: Tu dirección de email registrada
+  * **Contraseña**: Tu contraseña actual
+* Selecciona **Iniciar Sesión** para acceder
 
-## **3. Alertar para Crear Nueva Contraseña**
+## **3. Solicitud de Cambio**
 
-* Haz clic en el enlace o botón que dice **Crear una nueva contraseña**. Esto te llevará a la siguiente vista.
+* Localiza y selecciona la opción **Crear una nueva contraseña** en el menú de usuario
 
-## **4. Completar el Formulario de Restablecimiento de Contraseña**
+## **4. Actualización de Credenciales**
 
-* En la nueva vista, completa los siguientes campos:
-  * **Correo Electrónico**: Introduce nuevamente tu dirección de correo electrónico.
-  * **Nombre y Apellido**: Escribe tu nombre y apellido.
-  * **Contraseña Vieja**: Ingresa tu contraseña actual.
-  * **Contraseña Nueva**: Crea una nueva contraseña.
+* En el formulario de cambio de contraseña, proporciona:
+  * **Correo Electrónico**: Tu email registrado
+  * **Nombre y Apellido**: Tus datos personales
+  * **Contraseña Actual**: Tu clave vigente
+  * **Nueva Contraseña**: La clave que deseas establecer
 
-## **5. Restablecer la Contraseña**
+## **5. Confirmación del Cambio**
 
-* Una vez que hayas llenado todos los campos correctamente, haz clic en el botón **Restablecer Contraseña** para guardar los cambios.
+* Verifica que todos los campos estén correctamente completados
+* Presiona el botón **Restablecer Contraseña** para aplicar los cambios
 
-## **6. Confirmación**
+## **6. Verificación**
 
-* Después de restablecerla, deberías recibir una confirmación en pantalla que te notificará el cambio de tu contraseña.
+* El sistema mostrará un mensaje confirmando que tu contraseña ha sido actualizada exitosamente

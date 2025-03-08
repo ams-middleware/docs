@@ -2,25 +2,29 @@
 icon: lock
 ---
 
-# Olvidar Contraseña
+# Recuperación de Contraseña
 
-### Restablecer Contraseña
+### Proceso de Restablecimiento
 
-Si has olvidado tu contraseña, puedes restablecerla siguiendo estos pasos:
+¿Olvidaste tu contraseña? No te preocupes, sigue estos sencillos pasos para recuperar el acceso a tu cuenta:
 
-1.  **Haz clic en "Olvidé mi contraseña".**
+1. **Inicia el proceso de recuperación**
+   * Localiza y selecciona la opción "Olvidé mi contraseña" en la pantalla de inicio de sesión
+   * Ingresa el correo electrónico asociado a tu cuenta para recibir el código de verificación
 
-    * Se solicitará el correo electrónico de la cuenta a recuperar. Asegúrate de que sea correcta, ya que recibirás un código de verificación en este correo.
+2. **Verifica tu identidad**
+   * **Correo Electrónico:**
+     Confirma tu dirección de correo electrónico registrada
+   * **Código de Verificación:**
+     Introduce el código único que recibirás en tu bandeja de entrada
+   * **Nueva Contraseña:**
+     Crea una contraseña segura que incluya:
+     - Mínimo 8 caracteres
+     - Combinación de letras y números
+     - Al menos un carácter especial
 
-
-2. **Completa los siguientes campos en la vista que se abrirá:**
-   * **Correo:**\
-     Ingresa tu dirección de correo electrónico asociada a tu cuenta nuevamente.&#x20;
-   * **Código:**\
-     Revisa tu correo y copia el código único que te hemos enviado. Pégalo en la casilla de código.
-   * **Nueva contraseña:**\
-     Ingresa tu nueva contraseña. Asegúrate de que sea segura y cumpla con los requisitos establecidos (por ejemplo, longitud mínima, uso de caracteres especiales, etc.).
-
-**Al completar todos los campos, haz clic en el botón "Cambiar contraseña".**
+3. **Finaliza el proceso**
+   * Una vez completados todos los campos, presiona el botón "Cambiar contraseña"
+   * El sistema confirmará el cambio exitoso
 
 <figure><img src="../.gitbook/assets/Peek 2025-01-07 16-42.gif" alt=""><figcaption></figcaption></figure>

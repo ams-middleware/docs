@@ -1,31 +1,36 @@
-# Release Note
+# Notas de Versión
 
-## Próxima Versión
+## Próximas Actualizaciones 🚀
 
-Los detalles acerca de los próximos lanzamientos se publicarán conforme estén disponibles.
+### Versión 3.1.1 (Agosto 2024)
 
-### 30 Agosto 2024 Versión 3.1.1
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-## Versión Actual
-
-### 30 Julio 2024 Versión 3.1.0
-
-{% hint style="warning" %}
-No existe detalle de la versión actual
+{% hint style="info" %}
+Las características y mejoras planificadas para esta versión se anunciarán próximamente.
 {% endhint %}
 
-## Versiones Anteriores
+## Versión Actual ⭐
 
-**Nota**: Es posible que la información de las notas de la versión anteriores se haya sustituido por notas de la versión posteriores. Revise detenidamente todas las notas de la versión actuales.
+### Versión 3.1.0 (Julio 2024)
+
+#### Nuevas Características
+- Soporte para múltiples tiendas
+- Mejoras en la interfaz de usuario
+- Nueva sección de multimedia
+
+#### Correcciones
+- Optimización del rendimiento general
+- Corrección de errores menores
+
+#### Cambios Técnicos
+- Actualización de dependencias
+- Mejoras de seguridad
+
+## Historial de Versiones 📜
+
+### Versión 3.0.0 (Mayo 2024)
+- Lanzamiento inicial de la plataforma
+- Funcionalidades base implementadas
 
 {% hint style="warning" %}
-No existe registro de la versión actual
+Para obtener información detallada sobre versiones anteriores, por favor contacte al equipo de soporte.
 {% endhint %}
