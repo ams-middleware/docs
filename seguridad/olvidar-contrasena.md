@@ -2,7 +2,7 @@
 icon: lock
 ---
 
-# Recuperación de Contraseña
+# Recuperar Contraseña
 
 ### Proceso de Restablecimiento
 
@@ -11,18 +11,13 @@ icon: lock
 1. **Inicia el proceso de recuperación**
    * Localiza y selecciona la opción "Olvidé mi contraseña" en la pantalla de inicio de sesión
    * Ingresa el correo electrónico asociado a tu cuenta para recibir el código de verificación
-
 2. **Verifica tu identidad**
-   * **Correo Electrónico:**
-     Confirma tu dirección de correo electrónico registrada
-   * **Código de Verificación:**
-     Introduce el código único que recibirás en tu bandeja de entrada
-   * **Nueva Contraseña:**
-     Crea una contraseña segura que incluya:
-     - Mínimo 8 caracteres
-     - Combinación de letras y números
-     - Al menos un carácter especial
-
+   * **Correo Electrónico:** Confirma tu dirección de correo electrónico registrada
+   * **Código de Verificación:** Introduce el código único que recibirás en tu bandeja de entrada
+   * **Nueva Contraseña:** Crea una contraseña segura que incluya:
+     * Mínimo 8 caracteres
+     * Combinación de letras y números
+     * Al menos un carácter especial
 3. **Finaliza el proceso**
    * Una vez completados todos los campos, presiona el botón "Cambiar contraseña"
    * El sistema confirmará el cambio exitoso

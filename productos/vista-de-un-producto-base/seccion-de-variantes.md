@@ -1,4 +1,4 @@
-# Sección de Variantes
+# 🔀 Variantes
 
 **1. Buscador:**
 

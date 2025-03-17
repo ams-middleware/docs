@@ -1,4 +1,4 @@
-# Notas de Versión
+# 📝 Versiones
 
 ## Próximas Actualizaciones 🚀
 
@@ -13,23 +13,27 @@ Las características y mejoras planificadas para esta versión se anunciarán pr
 ### Versión 3.1.0 (Julio 2024)
 
 #### Nuevas Características
-- Soporte para múltiples tiendas
-- Mejoras en la interfaz de usuario
-- Nueva sección de multimedia
+
+* Soporte para múltiples tiendas
+* Mejoras en la interfaz de usuario
+* Nueva sección de multimedia
 
 #### Correcciones
-- Optimización del rendimiento general
-- Corrección de errores menores
+
+* Optimización del rendimiento general
+* Corrección de errores menores
 
 #### Cambios Técnicos
-- Actualización de dependencias
-- Mejoras de seguridad
+
+* Actualización de dependencias
+* Mejoras de seguridad
 
 ## Historial de Versiones 📜
 
 ### Versión 3.0.0 (Mayo 2024)
-- Lanzamiento inicial de la plataforma
-- Funcionalidades base implementadas
+
+* Lanzamiento inicial de la plataforma
+* Funcionalidades base implementadas
 
 {% hint style="warning" %}
 Para obtener información detallada sobre versiones anteriores, por favor contacte al equipo de soporte.

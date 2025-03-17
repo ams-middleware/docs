@@ -1,4 +1,4 @@
-# Sección de Conectores
+# 🔌 Conectores
 
 Esta sección de conectores muestra información que incluye:
 

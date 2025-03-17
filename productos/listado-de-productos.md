@@ -1,4 +1,4 @@
-# Listado
+# 📋 Catálogo
 
 ### **Acceder al Listado de Productos:**
 

@@ -2,7 +2,7 @@
 description: 'Para acceder y manejar el listado de CRM en tu interfaz, sigue estos pasos:'
 ---
 
-# Listado
+# 📋 Clientes
 
 ## Acceder al Listado de CRM
 
