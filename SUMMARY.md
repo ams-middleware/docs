@@ -56,6 +56,7 @@
 * [🖼️ Multimedia](productos/multimedia.md)
 * [👥 CRM](crm/README.md)
   * [📋 Clientes](crm/listado.md)
+* [Preguntas Frecuentes Middleware](productos/preguntas-frecuentes-middleware.md)
 
 ## ℹ️ Acerca de
 
