@@ -1,4 +1,4 @@
-# ✏️ Edición
+# ✏️ Editar Pedido
 
 Se permite la edición de una Orden Estándar a través del acceso rápido del listado o accediendo al detalle de una orden y seleccionando la opción de editar. A continuación, se detallan los pasos y campos modificables:
 
@@ -27,8 +27,8 @@ En esta sección, se puede editar los siguientes campos:
 * Para añadir un descuento a un producto, haga clic en el símbolo de porcentaje (%). Se abrirá un modal donde ingresará:
 
 1. **Código de cupón**: El usuario podrá ingresar un código de cupón que haya sido generado por la plataforma externa o que haya creado de manera personalizada.
-2. Nombre de Cupon: Este puede ser el mismo que el código de cupón o un nombre personalizado que el usuario desee asignar.
-3. **Calcular cupón**: EEl usuario podrá elegir entre dos métodos de descuento porcentual o precio fijo.
+2. **Nombre de Cupón:** Este puede ser el mismo que el código de cupón o un nombre personalizado que el usuario desee asignar.
+3. **Calcular cupón**: El usuario podrá elegir entre dos métodos de descuento porcentual o precio fijo.
 
 * Si ha añadido múltiples productos, puede aplicar un cupón general. Haga clic en el botón "Agregar cupón general" para abrir un modal donde ingresará:
 

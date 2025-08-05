@@ -2,7 +2,7 @@
 icon: ballot
 ---
 
-# Listado de Ordenes
+# 📋 Lista de Pedidos
 
 ### Acceder al Listado de Órdenes
 
@@ -44,5 +44,6 @@ En la parte superior del listado de órdenes, encontrarás los siguientes botone
 
 ### Funcionalidades de Búsqueda y Filtrado
 
-* **Buscador**: Utiliza el buscador para buscar una orden específica ingresando el UID, código u otro dato relevante.
-* **Botón de Filtrado**: Permite aplicar filtros para visualizar órdenes específicas según ciertos criterios.
+{% hint style="info" %}
+&#x20;necesitas más detalles acerca del procedimiento de filtrado,[ haz clic aquí](https://app.gitbook.com/o/VI72cNjZu41Jwv40i2Us/s/hBvnKBYKvcBtcV6FEhAH/~/changes/100/productos/filtrado)
+{% endhint %}

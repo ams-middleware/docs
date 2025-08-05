@@ -6,7 +6,7 @@ icon: arrows-rotate-reverse
 
 A través de la plataforma de e-Middleware, el usuario tiene la capacidad de sincronizar una orden desde la plataforma externa utilizando el código de referencia (ref code) que esta genera.
 
-En el listado de órdenes tenemos la opción de sincronizar en la botonera que está situada a la derecha. Se mostrará un modal al hacerr clic en el botón de más opciones, donde deberá de seleccionar un conector y el ref code de la orden que desea sincronizar.
+En el listado de órdenes tenemos la opción de sincronizar en la botonera que está situada a la derecha. Se mostrará un modal al hacer clic en el botón de más opciones, donde deberá de seleccionar un conector y el ref code de la orden que desea sincronizar.
 
 <figure><img src="../.gitbook/assets/Peek 2024-12-02 10-43.gif" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 description: 'En la creación de una orden standard están los siguientes pasos a seguir:'
 ---
 
-# 🆕 Creación
+# 🆕 Nuevo Pedido
 
 ## Pasos 1 : Información General&#x20;
 
@@ -114,7 +114,7 @@ Los campos obligatorios para registrar un pago son los siguientes:
 2. **Plataform (Plataforma):** Seleccione la plataforma de pago correspondiente
 3. **Total Amount (Monto Total ):** Monto de la transacción
 4. **Payment Date (Fecha de Pago):** Fecha en la que se realizó el pago
-5. El sistama permita agregar como maximo tres (3) pagos adicionales.
+5. El sistema permite agregar como maximo tres (3) pagos adicionales.
 
 Para finalizar la orden, haga clic en el botón "Finalizar". A continuación, se mostrará un modal con el resumen del pedido, que le permitirá visualizar y corroborar la información. Una vez validada, presione "Confirmar" para generar la nueva orden.
 

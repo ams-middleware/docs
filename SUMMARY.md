@@ -53,6 +53,7 @@
 * [⬆️ Exportar](productos/exportacion.md)
 * [⬇️ Importar](productos/importacion.md)
 * [📋 Importador](productos/detalles-del-importador.md)
+* [Filtrado](productos/filtrado.md)
 * [🖼️ Multimedia](productos/multimedia.md)
 * [👥 CRM](crm/README.md)
   * [📋 Clientes](crm/listado.md)

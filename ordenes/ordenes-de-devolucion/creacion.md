@@ -1,12 +1,12 @@
-# 🆕 Creación
+# 🆕 Nueva Devolución
 
-Para crear una orden de devolucion puede ingresar a traves de dos metodos:&#x20;
+Para crear una orden de devolución puede ingresar a través de dos métodos:&#x20;
 
-1. Desde el detalle del producto dando clic en el boton de “devolución”.
-2. Desde la Accion rapida del listado.&#x20;
+1. Desde el detalle del producto dando clic en el botón de “devolución”.
+2. Desde la Acción rapida del listado.&#x20;
 
 {% hint style="info" %}
-Los procedimientos de información general, facturación, envío ymensajería son los mismos que se usan para crear una orden estándar. Si necesitas más detalles sobre estos pasos, [haz clic aqui](https://docs.e-middleware.com/ordenes/ordenes-standard/creacion)
+Los procedimientos de información general, facturación, envío y mensajería son los mismos que se usan para crear una orden estándar. Si necesitas más detalles sobre estos pasos, [haz clic aqui](https://docs.e-middleware.com/ordenes/ordenes-standard/creacion)
 {% endhint %}
 
 ### Acceder a la sección de productos.

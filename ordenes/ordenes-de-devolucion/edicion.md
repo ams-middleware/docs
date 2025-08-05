@@ -2,7 +2,7 @@
 description: Pasos de la edición para una orden de devolución
 ---
 
-# ✏️ Edición
+# ✏️ Editar Devolución
 
 La edición de una orden de Devolución se puede realizar a través de dos métodos:
 
@@ -45,5 +45,5 @@ Los procedimientos de información general, facturación, envío, mensajería y 
 * La nueva información del SKU seleccionado se mostrará en letras azules.
 
 {% hint style="warning" %}
-Documentación en construción
+Documentación en construcción
 {% endhint %}
