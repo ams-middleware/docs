@@ -25,8 +25,8 @@ En la parte superior de la vista tendrás las siguientes opciones:
 1. **Filtrar**: Haz clic en el botón de **filtrado** para ajustar la visualización de los productos según criterios específicos.
 
 {% hint style="info" %}
-Si necesitas más detalles acerca del procedimiento de filtrado,[ haz clic aquí](https://docs.e-middleware.com/producto/exportacion)
+Si necesitas más detalles acerca del procedimiento de filtrado,[ haz clic aquí](https://app.gitbook.com/o/VI72cNjZu41Jwv40i2Us/s/hBvnKBYKvcBtcV6FEhAH/~/changes/101/productos/filtrado-avanzado)
 {% endhint %}
 
 2. **Buscar**: Utiliza el campo correspondiente de **búsqueda**. Solo podrás buscar por el código del SKU.
-3. **Exportar o Eliminar un producto**: Haz clic en los tres puntos (:) a la derecha del buscador de productos para acceder a opciones para exportar la lista o eliminar productos seleccionados.
+3. **Exportar o Eliminar un producto**: Haz clic en los tres puntos (:) a la derecha del buscador de productos para acceder a opciones para exportar la lista o eliminar productos s
