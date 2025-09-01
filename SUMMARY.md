@@ -58,6 +58,10 @@
   * [📋 Clientes](crm/listado.md)
 * [Preguntas Frecuentes Middleware](productos/preguntas-frecuentes-middleware.md)
 
+***
+
+* [Filtrado Avanzado](filtrado-avanzado.md)
+
 ## ℹ️ Acerca de
 
 * [📝 Versiones](about/release-note.md)

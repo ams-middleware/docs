@@ -42,8 +42,8 @@ En la parte superior del listado de órdenes, encontrarás los siguientes botone
 * **Botón de Sincronizar Orden**: Utilizado para sincronizar la información de las órdenes con otras bases de datos o sistemas.
 * **Botón para refrescar la vista**: Para actualizar el listado y ver los cambios recientes.
 
-### Funcionalidades de Búsqueda y Filtrado
+### Funcionalidades de Filtrado
 
 {% hint style="info" %}
-&#x20;necesitas más detalles acerca del procedimiento de filtrado,[ haz clic aquí](https://app.gitbook.com/o/VI72cNjZu41Jwv40i2Us/s/hBvnKBYKvcBtcV6FEhAH/~/changes/100/productos/filtrado)
+Para más detalles acerca del procedimiento de filtrado,[ haz clic aquí](https://app.gitbook.com/o/VI72cNjZu41Jwv40i2Us/s/hBvnKBYKvcBtcV6FEhAH/~/changes/100/productos/filtrado)
 {% endhint %}
