@@ -55,14 +55,14 @@ El sistema está diseñado para crecer con su negocio, ofreciendo:
 [broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="ordenes/ordenes-standard/" %}
-[ordenes-standard](ordenes/ordenes-standard/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="ordenes/ordenes-de-cambio/" %}
-[ordenes-de-cambio](ordenes/ordenes-de-cambio/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="ordenes/ordenes-de-devolucion/" %}
-[ordenes-de-devolucion](ordenes/ordenes-de-devolucion/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
