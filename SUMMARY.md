@@ -48,5 +48,7 @@
     * [🔀 Importador](catalogo/producto-simple/importador.md)
     * [Multimedia](catalogo/producto-simple/multimedia-1.md)
 * [Filtrado Avanzado](filtrado-avanzado.md)
+* [👤 CRM](crm.md)
 * [ℹ️ Acerca De](acerca-de/README.md)
   * [📝 Versiones](acerca-de/versiones.md)
+  * [ℹ️ Preguntas Frecuentes Middleware](acerca-de/preguntas-frecuentes-middleware.md)
