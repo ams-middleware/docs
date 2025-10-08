@@ -21,7 +21,7 @@ La información se organiza en las siguientes columnas:
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Botones de accion:**
+* **Botones de acción:**
 
 1. **Detalles de Inventario:** Al hacer clic en este botón, se abre un modal que muestra información detallada del producto seleccionado.
 
@@ -31,3 +31,8 @@ La información se organiza en las siguientes columnas:
 
 <figure><img src="../.gitbook/assets/Peek 2025-10-02 11-26.gif" alt=""><figcaption></figcaption></figure>
 
+Modificación Masiva de inventario:
+
+Desde la sección de Listado de productos el usuario podra hacer modificaciones masivas de la suguiente manera:&#x20;
+
+1.

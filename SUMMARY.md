@@ -12,6 +12,7 @@
   * [🧾 Pedidos de Cambio](ordenes/pedidos-de-cambio/README.md)
     * [🆕 Nuevo Cambio](ordenes/pedidos-de-cambio/nuevo-cambio.md)
     * [✏️ Editar Cambio](ordenes/pedidos-de-cambio/editar-cambio.md)
+  * [Orden de Cancelación](ordenes/orden-de-cancelacion.md)
   * [🔄 Devoluciones](ordenes/devoluciones/README.md)
     * [🆕 Nueva Devolución](ordenes/devoluciones/nueva-devolucion.md)
     * [✏️ Editar Devolución](ordenes/devoluciones/editar-devolucion.md)
