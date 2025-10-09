@@ -29,8 +29,9 @@ Siga estos pasos para realizar la cancelación de una orden que cumpla con los r
 
 1. Se desplegará una ventana emergente (modal).
 2. En el campo **"Seleccionar status"**, elija la opción **"Cancelar"** de la lista desplegable.
-3. En el campo **"Observación"**, ingrese una justificación o motivo para la cancelación.&#x20;
-4. Para finalizar, haga clic en el botón **"Aplicar"**.
+3. Selecciona el check "Crear orden de cancelación" para generar la orden de cancelación; de lo contrario, la orden estándar pasará a cancelada.
+4. En el campo **"Observación"**, ingrese una justificación o motivo para la cancelación.&#x20;
+5. Para finalizar, haga clic en el botón **"Aplicar"**.
 
 **Resultado de la Cancelación**
 
