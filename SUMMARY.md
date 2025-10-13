@@ -48,6 +48,7 @@
     * [⬇️ Importar](catalogo/producto-simple/importar.md)
     * [🔀 Importador](catalogo/producto-simple/importador.md)
     * [Multimedia](catalogo/producto-simple/multimedia-1.md)
+  * [Procesador Masivo](catalogo/procesador-masivo.md)
   * [Listado de Inventario](catalogo/listado-de-inventario.md)
 * [Filtrado Avanzado](filtrado-avanzado.md)
 * [👤 CRM](crm.md)
