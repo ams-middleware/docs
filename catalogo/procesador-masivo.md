@@ -46,3 +46,6 @@ icon: arrows-rotate
     * **Variaciones:** Versiones diferentes del mismo producto.
 
     Haga clic en **"Aplicar"** para iniciar la sincronización masiva.
+
+<figure><img src="../.gitbook/assets/15-10-2025_11-11-26.gif" alt=""><figcaption></figcaption></figure>
+
