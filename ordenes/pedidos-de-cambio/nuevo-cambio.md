@@ -14,14 +14,16 @@ Los procedimientos de información general, facturación, envío, mensajería y 
    * En la pantalla de cambio, ve a la sección de productos y haz clic en "Buscar producto". Se abrirá un modal que te mostrará todos los productos disponibles.
    * Busca y selecciona el nuevo producto que deseas cambiar, y luego haz clic en "Aplicar".
 4. **Relacionar Productos:**
-   * Al aplicar el nuevo producto, se mostrará una alerta que indica que necesitas relacionar el nuevo producto con el original. Haz clic en el ícono de "cambio" para proceder.
+   * Al aplicar el nuevo producto, se mostrará una alerta que indica que necesitas relacionar el nuevo producto con el original. Haz clic en el ícono de "cambio" ![](<../../.gitbook/assets/image (22).png>)para proceder.
 5. **Modal de Selección de Productos:**
    * En el modal que aparece, verás información clave sobre el cambio:
-     * **SKU:** Código de referencia único del producto.
-     * **Price (Precio):** Precio por unidad del producto.
-     * **Qty (Cantidad):** Cantidad deseada del nuevo producto.
-     * **Disc %:** Porcentaje de descuento aplicable.
-     * **Precio Total:** Costo total por la cantidad seleccionada.
+     * **SKU**
+     * **Price (Precio)**
+     * **Qty (Cantidad)**
+     * **Disc %**
+     * **Precio Total**
    * Selecciona el/los productos que deseas cambiar y haz clic en "Aplicar".
 6. **Visualización Final de los Productos:**
    * Después de aplicar el cambio, la columna de productos mostrará el SKU original de la compra estándar en números y letras rojas, mientras que la información del SKU seleccionado para la nueva compra se mostrará en letras azules.
+
+<figure><img src="../../.gitbook/assets/21-10-2025_09-38-56.gif" alt=""><figcaption></figcaption></figure>

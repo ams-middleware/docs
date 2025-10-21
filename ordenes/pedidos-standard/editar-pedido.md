@@ -18,10 +18,10 @@ Para proceder al siguiente paso, seleccione "Siguiente". Si desea conservar los 
 
 En esta sección, se puede editar los siguientes campos:
 
-1. **Precio (Price)**: Muestra de precio por unidad
-2. **Cantidad (Quantity)**: Permite especificar la cantidad deseada
-3. **Adición de productos**: Añadir producto de la orden
-4. **Eliminar Producto:** Eliminar el producto de la orden
+1. **Precio (Price)**
+2. **Cantidad (Quantity)**
+3. **Adición de productos**
+4. **Eliminar Producto**
 5. **Gestión de cupones de descuento (por producto o general)**:
 
 * Para añadir un descuento a un producto, haga clic en el símbolo de porcentaje (%). Se abrirá un modal donde ingresará:
@@ -50,9 +50,9 @@ La información del cliente puede modificarse mediante dos opciones, desde la op
 
 1. Campos editables del cliente:
 
-* **Nombre (First Name) y Apellido (Last Name):** Únicamente caracteres alfabéticos.
-* **DNI:** Exclusivamente caracteres numéricos.
-* **Email y Teléfono:** Se permiten números y letras
+* **Nombre y Apellido**&#x20;
+* **DNI**
+* **Email y Teléfono:**
 
 2. Es posible modificar la dirección de facturación en los campos correspondientes.
 3. Existe la opción de utilizar la misma información para el envío, activando la casilla correspondiente.
@@ -66,9 +66,9 @@ Para proceder al siguiente paso, seleccione "Siguiente". Si desea conservar los 
 1. Si el Usuario selecciona la opción de usar la información de facturación, los campos se autocompletarán automáticamente.
 2. Alternativamente, se ofrece la opción de modificar la dirección de envío manualmente, utilizando los campos designados para la información del cliente:
 
-* **Nombre (First Name) y Apellido (Last Name):** Solo se permiten letras.
-* **DNI:** Solo números.
-* **Email y Teléfono:** Se permiten números y letras.
+* **Nombre y Apellido**&#x20;
+* **DNI**
+* **Email y Teléfono**
 
 Para proceder al siguiente paso, seleccione "Siguiente". Si desea conservar los cambios realizados en esta etapa, oprima "Guardar". En caso de que desee interrumpir el proceso, seleccione "Salir".
 
@@ -78,7 +78,7 @@ Para proceder al siguiente paso, seleccione "Siguiente". Si desea conservar los 
 
 En esta sección se puede modificar:
 
-1. Precio         (Price)
+1. Precio&#x20;
 2. Se ofrece la opción de seleccionar una empresa de envío alternativa en caso de que la asignada inicialmente no proporcione servicio en la zona de destino.
 
 {% hint style="info" %}
@@ -93,9 +93,9 @@ Para proceder al siguiente paso, seleccione "Siguiente". Si desea conservar los 
 
 En esta sección se puede modificar:
 
-1. **Transaction ID (Numero de Transaccion):** Numero de transacción que identifica la operación bancaria realizada
-2. **Plataform (Plataforma):** Seleccione la plataforma de pago correspondiente
-3. **Total Amount (Monto Total ):** Monto de la transacción
-4. **Payment Date (Fecha de Pago):** Fecha en la que se realizó el pago
+1. **Transaction ID (Numero de Transaccion)**
+2. **Plataform (Plataforma)**
+3. **Total Amount (Monto Total )**
+4. **Payment Date (Fecha de Pago)**
 
 Para finalizar el proceso de edición de una orden estándar, seleccione el botón "Guardar". Esto finalizará y aplicará todas las modificaciones realizadas por el usuario.

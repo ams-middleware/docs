@@ -31,8 +31,3 @@ La información se organiza en las siguientes columnas:
 
 <figure><img src="../.gitbook/assets/Peek 2025-10-02 11-26.gif" alt=""><figcaption></figcaption></figure>
 
-Modificación Masiva de inventario:
-
-Desde la sección de Listado de productos el usuario podra hacer modificaciones masivas de la suguiente manera:&#x20;
-
-1.

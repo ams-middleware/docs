@@ -16,6 +16,8 @@ A continuación se presentan los campos que el usuario deberá completar:
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
 
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## Paso 2: Productos
@@ -28,23 +30,17 @@ Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descart
    3.1 Precio (Price): Muestra el precio por unidad.\
    3.2 Cantidad (Quantity): Permite especificar la cantidad deseada.\
    3.3 Monto total (Total amount): Presenta el monto total.
-4. Para eliminar un producto, seleccione el ícono de papelera.
 
-#### Añadir cupones de descuento por producto o General:
+<figure><img src="../../.gitbook/assets/20-10-2025_13-23-38 (1).gif" alt=""><figcaption></figcaption></figure>
 
-Para agregar un descuento a un producto, haga clic en el símbolo de porcentaje (%). Se abrirá un modal donde ingresará:
+#### Añadir cupones de descuento por producto&#x20;
 
-1. Código de cupón: Generado por la plataforma externa o personalizado.
-2. Nombre de cupón: Puede ser el mismo código o un nombre personalizado.
-3. Calcular cupón: Elija entre descuento por porcentaje o precio fijo.
+Para aplicar un descuento a un producto, haga clic en el símbolo "%". Se abrirá un modal donde debe ingresar:
 
-Si ha añadido múltiples productos, puede aplicar un cupón general. Haga clic en el botón "Agregar cupón general" para abrir un modal donde ingresará:
+* **Código y nombre del cupón** (generado o personalizado).
+* **Tipo de descuento** (porcentaje o precio fijo).
 
-1. **Código de cupón**: código externamente o personalizado.
-2. **Nombre de cupón**: Igual al código o personalizado.
-3. **Calcular cupón**: Seleccione el tipo de descuento.
-
-Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
+<figure><img src="../../.gitbook/assets/20-10-2025_15-02-21.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -55,16 +51,18 @@ Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descart
 1. Haga clic en "Buscar cliente" para seleccionar un cliente registrado. La búsqueda se puede realizar por DNI, Nombre, Email.
 2. Ingrese los datos del cliente:
 
-* **Nombre (First Name)** y **Apellido (Last Name)**: Solo se permiten letras.
-* **DNI**: Solo números.
-* **Email** y **Teléfono**: Se permiten números y letras.
+* **Nombre**&#x20;
+* **DNI**
+* **Email** y **Teléfono**
+
+<figure><img src="../../.gitbook/assets/21-10-2025_08-47-54.gif" alt=""><figcaption></figcaption></figure>
 
 #### **Dirección de Facturación**
 
-1. Seleccione o añada una dirección de envío. Los campos necesarios se completarán automáticamente al elegir una dirección. Los campos Ciudad, Calle, Piso, apartamento y referencia pueden ser completados por el usuario.
+1. Añada una dirección de envío. Los campos Ciudad, Calle, Piso, apartamento y referencia pueden ser completados por el usuario.
 2. Active la casilla para usar la misma información de facturación para el envío, si lo desea.
 
-Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
+<figure><img src="../../.gitbook/assets/21-10-2025_08-58-56.PNG" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -72,16 +70,14 @@ Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descart
 
 #### **Información del Cliente**
 
-1. Haga clic en "Buscar cliente" para seleccionar un cliente registrado. La búsqueda se puede realizar por DNI, Nombre, Email.
-2. Ingrese los datos del cliente:
+Para completar esta sección, **repita el mismo procedimiento** utilizado en la sección de **Facturación**.
 
-* **Nombre (First Name)** y **Apellido (Last Name)**: Solo se permiten letras.
-* **DNI**: Solo números.
-* **Email** y **Teléfono**: Se permiten números y letras.
+* **Busque** un cliente existente usando "Buscar cliente".
+* O **ingrese manualmente** los datos del cliente (Nombre, Apellido, DNI, Email, Teléfono) en los campos correspondientes.
 
 #### **Dirección de Envio**
 
-1. Seleccione o añada una dirección de envío. Los campos necesarios se completarán automáticamente al elegir una dirección. Los campos Ciudad, Calle, Piso, apartamento y referencia pueden ser completados por el usuario.
+1. Añada una dirección de envío. Rellene los campos correspondientes.
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
 
@@ -103,6 +99,10 @@ Para adicionar un cobro de envío se debe realizar lo siguiente:
 2. **Observation (Observación)** Podrá ingresar observaciones adicionales si lo desea.
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
+
+<figure><img src="../../.gitbook/assets/21-10-2025_09-20-23.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
