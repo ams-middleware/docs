@@ -4,9 +4,9 @@ icon: user
 
 # Cambio de contraseña Nuevo Usuario
 
-**Paso 1: Inicio de Sesión Inicial**
+**Paso 1: Inicio de Sesión**
 
-* Ingresa tu **Email** y **Contraseña** temporal proporcionada
+* Ingresa tu **Email** y la **Contraseña** temporal proporcionada
 * Haz clic en "Iniciar Sesión"
 
 **Paso 2: Alerta de Seguridad**
@@ -31,3 +31,5 @@ Completa los siguientes campos:
 {% hint style="info" %}
 Este proceso es obligatorio por seguridad y solo se realiza en tu primer acceso.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/27-10-2025_17-00-41.gif" alt=""><figcaption></figcaption></figure>
