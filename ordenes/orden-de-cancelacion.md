@@ -17,9 +17,9 @@ Siga estos pasos para realizar la cancelación de una orden que cumpla con los r
 
 **Paso 1: Acceder a la Orden**
 
-1. Diríjase al **Listado de Órdenes**.
+1. Diríjase al Listado de Órdenes.
 2. Utilice los filtros o la búsqueda para localizar la orden standar que desea cancelar.
-3. **Seleccione la orden** haciendo clic sobre ella para abrir su detalle.
+3. Seleccione la orden haciendo clic sobre ella para abrir su detalle.
 
 **Paso 2: Iniciar el Cambio de Estado**
 
@@ -46,3 +46,4 @@ Una vez que se presione **"Aplicar"**, el sistema realizará automáticamente lo
   * Cambio
   * Devolución
 
+<figure><img src="../.gitbook/assets/27-10-2025_08-51-36.gif" alt=""><figcaption></figcaption></figure>
