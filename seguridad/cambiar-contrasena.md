@@ -17,7 +17,7 @@ icon: lock
 
 ## **3. Solicitud de Cambio**
 
-* Localiza y selecciona la opción **Crear una nueva contraseña** en el menú de usuario.
+* Localiza y selecciona la opción **Cambiar contraseña** en el menú de usuario.
 
 ## **4. Actualización de Credenciales**
 

@@ -2,6 +2,7 @@
 
 * [🛍️ E-MW: Gestión E-commerce](README.md)
 * [🔑 Seguridad](seguridad/README.md)
+  * [Cambio de contraseña Nuevo Usuario](seguridad/cambio-de-contrasena-nuevo-usuario.md)
   * [Cambiar Contraseña](seguridad/cambiar-contrasena.md)
   * [Recuperar Contraseña](seguridad/recuperar-contrasena.md)
 * [Multi-Tienda](multi-tienda.md)
