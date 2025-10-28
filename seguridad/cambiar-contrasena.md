@@ -35,3 +35,5 @@ icon: lock
 ## **6. Verificación**
 
 * El sistema mostrará un mensaje confirmando que tu contraseña ha sido actualizada exitosamente.
+
+<figure><img src="../.gitbook/assets/28-10-2025_10-26-38.gif" alt=""><figcaption></figcaption></figure>
