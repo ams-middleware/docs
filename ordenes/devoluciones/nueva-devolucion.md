@@ -3,7 +3,7 @@
 Para crear una orden de devolución puede ingresar a través de dos métodos:&#x20;
 
 1. Desde el detalle del producto dando clic en el botón de “devolución”.
-2. Desde la Acción rapida del listado.&#x20;
+2. Desde la Acción rápida del listado.&#x20;
 
 {% hint style="info" %}
 Los procedimientos de información general, facturación, envío y mensajería son los mismos que se usan para crear una orden estándar. Si necesitas más detalles sobre estos pasos, [haz clic aqui](https://docs.e-middleware.com/ordenes/ordenes-standard/creacion)
@@ -22,3 +22,5 @@ Solo van aparecer los productos de la ordenes standar y cambios que estén compl
 {% hint style="info" %}
 Es posible realizar devoluciones parciales de un producto. Por ejemplo, si un cliente compró 3 productos y solo desea devolver 1, tiene la opción de hacerlo.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/29-10-2025_16-00-33.gif" alt=""><figcaption></figcaption></figure>
