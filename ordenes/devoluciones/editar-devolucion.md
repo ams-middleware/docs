@@ -43,3 +43,5 @@ Los procedimientos de información general, facturación, envío, mensajería y 
 
 * Al aplicar el cambio, el SKU original aparecerá en números y letras rojas para indicar que ha sido modificado.
 * La nueva información del SKU seleccionado se mostrará en letras azules.
+
+<figure><img src="../../.gitbook/assets/29-10-2025_16-00-33 (1).gif" alt=""><figcaption></figcaption></figure>
