@@ -1,90 +1,57 @@
 ---
-description: 'La sección de detalles presenta una botonera con las siguientes opciones:'
 icon: ballot
 ---
 
 # Detalles Pedido
 
-## **1. Sección de Detalles**
+### Vista Principal de Detalles
 
-1. **Cambiar Status:**
+La sección de detalles presenta una vista organizada con las siguientes pestañas informativas:
 
-Al hacer clic en "Cambiar Status", se abrirá una ventana donde podrá seleccionar el nuevo status para la orden. Las opciones disponibles son:
+* **Detalles**: Resumen general del pedido
+* **Datos del cliente**: Información del cliente
+* **Pago**: Estado transaccional y métodos
+* **Envío**: Datos logísticos y tracking
+* **Producto**: Especificaciones de productos
+* **Monto total**: Desglose financiero
+* **Workflow**: Estados y flujo de proceso
+* **Connector**: Integraciones con sistemas externos
 
-* **Pending (Pendiente):** La orden está en espera de procesamiento.
-* **Complete (Completado):** La orden ha sido finalizada.
-* **Cancel (Cancelar):** Opción para anular la orden.
-* **Delete (Eliminar):** Opción para borrar la orden del sistema.
-* **Observación:** Permite añadir un comentario adicional a la orden.
+### Acciones Principales
 
-Tras seleccionar el estado, tendrá las opciones de **Aplicar** o **Cerrar**. Haga clic en "Aplicar" para confirmar el cambio o en "Cerrar" para cancelar la acción.
+* **Editar**: Modificar datos del pedido
+* **Procesar**: Ejecutar procesamiento estándar
+* **Versionar**: Crear nueva versión
+* **Cambio**: Iniciar modificación formal
+* **Devolución**: Gestionar devoluciones
+* **Refrescar**: Actualizar vista
 
-2. **Editar la Orden:**
+### Acciones Adicionales
 
-Permite modificar los datos de la orden según sea necesario.
+* **Pull Order**: Sincronizar con sistemas externos
+* **Normalizar**: Estandarizar formato de datos
+* **Liberar Stock**: Remover reservas de inventario
+* **Cambiar Status**: Modificar estado manualmente
+* **Reservar Stock**: Reservar items en inventario
+* **Procesar Manual**: Ejecución paso a paso
+* **Eliminar**: Eliminar registro permanentemente
 
-3. **Reservar Stock de la Orden:**
-
-Asegura la disponibilidad de los productos incluidos en la orden.
-
-4. **Procesar la Orden:**
-
-Inicia el procesamiento de la orden directamente desde esta sección, agilizando el flujo de trabajo.
-
-5. **Versionar la Orden:**
-
-Crea una nueva versión de la orden actual para realizar un seguimiento de cambios.
-
-6. **Actualizar Datos de la Orden:**
-
-Refresca la información visible para reflejar posibles cambios en el sistema.
-
-7. **Opciones Adicionales**
-
-**Workflow:**
-
-* **Procesar Manual:** Permite procesar la orden de forma manual.
-* **Eliminar:** Borra la orden de la base de datos.
-
-8. **Otras Acciones:**
-
-* **Obtener Orden:** Extrae información adicional relacionada con la orden.
-* **Normalizar:** Ajusta la orden según los parámetros establecidos en el sistema.
-
-### **Resumen Detallado**
-
-En la sección de detalle se presenta un resumen que incluye:
-
-• Detalles de la Orden: Información básica.
-
-• Detalle del Cliente: Datos relevantes del comprador.
-
-• Detalle del Pago: Información sobre el método de pago.
-
-• Detalle del Envío: Datos de entrega del producto.
-
-• Detalle del Producto: Información de los artículos en la orden.
-
-• Detalle del Monto Total: Resumen del importe a pagar.
-
-• Información del Workflow: Estado y progreso de la orden.
-
-• Información del Conector: Detalles sobre el origen de la orden y su integración.
-
-## 2. Sección de Pago
+### Vista de Pagos
 
 Esta sección proporciona información clave sobre el proceso de pago relacionado con la transacción. Se incluyen detalles como el método de pago utilizado.
 
-## 3. Sección de Relaciones
+### Vista de Relaciones
 
 Aquí se muestran todas las órdenes relacionadas con el producto, incluyendo pedidos anteriores, devoluciones y cualquier otra interacción que el usuario haya tenido con el producto.
 
-## 4. Sección de Workflow
+### Vista de Workflow
 
-La sección de Workflow detalla el proceso por el que pasa el producto o servicio desde la orden hasta la entrega. Incluye etapas como reserva de acciones, validación y normalización de datos, generación de envío, agregación de cliente al CRM,  y workflow completado.
+La sección de workflow detalla el proceso por el que pasa el producto o servicio desde la orden hasta la entrega. Incluye etapas como reserva de acciones, validación y normalización de datos, generación de envío, agregación de cliente al CRM, y workflow completado.
 
-## 5. Sección de Conectores
+### Vista de Conectores
 
 Esta sección se refiere a la integración del sistema con otras aplicaciones o plataformas.
 
-## 6. Sección de Historial
+### Vista de Historial
+
+Esta sección muestra todo los cambios por el que pasa la orden.
