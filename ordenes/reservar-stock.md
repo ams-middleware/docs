@@ -3,7 +3,7 @@
 ## Instrucciones para Reservar Stock
 
 1. **Acceder al Detalle de la Orden**: Navegue hasta el detalle de la orden donde desea reservar stock.
-2. **Ubicar el Botón de Reserva**: En la parte superior de la vista de detalle de la orden, encontrará un botón que dice **"Reservar stock"**.
+2. **Ubicar el Botón de Reserva**: El botón "Reservar Stock" se encuentra ubicado dentro del menú desplegable **"Otras Acciones"**
 3. **Clic en el Botón**: Haga clic en el botón **"Reservar stock"**. Esto abrirá un modal de confirmación.
 4. **Opciones en el Modal**:
    * Si está seguro de que desea reservar el stock, haga clic en **"Aplicar"**.
@@ -12,10 +12,4 @@
    * Si selecciona **"Aplicar"**, el stock se reservará automáticamente para la orden.
    * La vista de la orden se actualizará para reflejar que se ha aplicado la reserva de stock.
 
-## Detalles que se Mostrarán en la Vista:
-
-* **Ref Code (Código de referencia)**: Visualice el código de referencia de la orden.
-* **Type (Tipo)**: Información sobre el tipo de orden.
-* **Tags (Etiquetas)**: Clasificación o categorización de la orden, que ayuda a organizar y filtrar.
-* **Created on (Creado el)**: Fecha en la que se creó la orden.
-* **Created By (Creado por)**: Nombre de la persona que creó la orden.
+<figure><img src="../.gitbook/assets/04-11-2025_09-54-29.gif" alt=""><figcaption></figcaption></figure>

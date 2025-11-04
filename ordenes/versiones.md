@@ -34,8 +34,6 @@ No se puede versionar una Orden Standar si tiene órdenes relacionadas (cambio o
   * El estado cambiará de **Pendiente** a **Completado**.
   * Se ofrecerá la opción de editar el versionado de la orden.
 
-***
-
 #### Versionar Orden de Cambio
 
 * Al hacer clic en **"Aplicar"**:
@@ -53,3 +51,7 @@ No se puede versionar una Orden Standar si tiene órdenes relacionadas (cambio o
   * El UID cambiará de **R1 a R2**.
   * El estado cambiará de  completado a pendiente.
   * Se ofrecerá la opción de editar el versionado de la orden.
+
+***
+
+<figure><img src="../.gitbook/assets/04-11-2025_10-03-06.gif" alt=""><figcaption></figcaption></figure>
