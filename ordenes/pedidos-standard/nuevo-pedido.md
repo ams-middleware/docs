@@ -8,15 +8,13 @@ description: 'En la creación de una orden standard están los siguientes pasos 
 
 A continuación se presentan los campos que el usuario deberá completar:
 
-1. **Código de referencia (Ref Code):** La plataforma genera automáticamente este código único para cada orden del cliente.&#x20;
-2. **Etiquetas (Tags):**  Para clasificar y categorizar la orden.
+1. **Código de referencia:** La plataforma genera automáticamente este código único para cada orden del cliente.&#x20;
+2. **Etiquetas :**  Para clasificar y categorizar la orden.
 3. **Fecha de emisión:** La fecha en que se crea el registro.
-4. **Store:** El usuario debera seleccionar  el destino de la orden.
+4. **Store:** El usuario deberá seleccionar  el destino de la orden.
 5. **Estado:** El estado de la orden (Pendiente o Completado).
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
-
-
 
 ***
 
@@ -27,9 +25,9 @@ Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descart
 1. Haga clic en "Buscar producto" en la tabla de productos para ver las opciones disponibles.
 2. Busque un producto por nombre o SKU en la lista desplegada.
 3. Al seleccionar un producto, se rellenarán automáticamente: \
-   3.1 Precio (Price): Muestra el precio por unidad.\
-   3.2 Cantidad (Quantity): Permite especificar la cantidad deseada.\
-   3.3 Monto total (Total amount): Presenta el monto total.
+   3.1 Precio: Muestra el precio por unidad.\
+   3.2 Cantidad: Permite especificar la cantidad deseada.\
+   3.3 Monto total: Presenta el monto total.
 
 <figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (1).png" alt=""><figcaption></figcaption></figure>
 
