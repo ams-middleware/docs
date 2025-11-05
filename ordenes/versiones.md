@@ -54,4 +54,6 @@ No se puede versionar una Orden Standar si tiene órdenes relacionadas (cambio o
 
 ***
 
-<figure><img src="../.gitbook/assets/04-11-2025_10-03-06.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Logo indumentaria mujer circular simple negro (11).png" alt=""><figcaption></figcaption></figure>
+
+NOTA: VIDEO DEMOSTRATIVO DEL PASO A PASO PARA VERSIONAR UNA ORDEN

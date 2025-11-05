@@ -16,7 +16,7 @@ A continuación se presentan los campos que el usuario deberá completar:
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
 
 ***
 
@@ -31,7 +31,9 @@ Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descart
    3.2 Cantidad (Quantity): Permite especificar la cantidad deseada.\
    3.3 Monto total (Total amount): Presenta el monto total.
 
-<figure><img src="../../.gitbook/assets/20-10-2025_13-23-38 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (1).png" alt=""><figcaption></figcaption></figure>
+
+**NOTA:  Video demostrativo para añadir producto a una orden**
 
 #### Añadir cupones de descuento por producto&#x20;
 
@@ -40,7 +42,9 @@ Para aplicar un descuento a un producto, haga clic en el símbolo "%". Se abrir�
 * **Código y nombre del cupón** (generado o personalizado).
 * **Tipo de descuento** (porcentaje o precio fijo).
 
-<figure><img src="../../.gitbook/assets/20-10-2025_15-02-21.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+**NOTA:  Video demostrativo para añadir cupones de descuento por producto**
 
 ***
 
@@ -49,20 +53,18 @@ Para aplicar un descuento a un producto, haga clic en el símbolo "%". Se abrir�
 #### **Información del Cliente**
 
 1. Haga clic en "Buscar cliente" para seleccionar un cliente registrado. La búsqueda se puede realizar por DNI, Nombre, Email.
-2. Ingrese los datos del cliente:
+2. Ingrese los datos del cliente: **Nombre, DNI, Email** y **Teléfono**
 
-* **Nombre**&#x20;
-* **DNI**
-* **Email** y **Teléfono**
+<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/21-10-2025_08-47-54.gif" alt=""><figcaption></figcaption></figure>
+**NOTA: Video demostrativo para añadir la inforacion del cliente en seccion de facturacion**&#x20;
 
 #### **Dirección de Facturación**
 
 1. Añada una dirección de envío. Los campos Ciudad, Calle, Piso, apartamento y referencia pueden ser completados por el usuario.
 2. Active la casilla para usar la misma información de facturación para el envío, si lo desea.
 
-<figure><img src="../../.gitbook/assets/21-10-2025_08-58-56.PNG" alt=""><figcaption></figcaption></figure>
+**Nota: Imagen**&#x20;
 
 ***
 
@@ -80,6 +82,8 @@ Para completar esta sección, **repita el mismo procedimiento** utilizado en la 
 1. Añada una dirección de envío. Rellene los campos correspondientes.
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
+
+**NOTA: IMAGEN**&#x20;
 
 ***
 
@@ -100,9 +104,9 @@ Para adicionar un cobro de envío se debe realizar lo siguiente:
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
 
-<figure><img src="../../.gitbook/assets/21-10-2025_09-20-23.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (3).png" alt=""><figcaption></figcaption></figure>
 
-
+**NOTA: VIDEO DEMOSTRATIVO DE LA SECCION DE MENSAJERIA PASO A PASO.**
 
 ***
 
@@ -117,3 +121,5 @@ Los campos obligatorios para registrar un pago son los siguientes:
 5. El sistema permite agregar como maximo tres (3) pagos adicionales.
 
 Para finalizar la orden, haga clic en el botón "Finalizar". A continuación, se mostrará un modal con el resumen del pedido, que le permitirá visualizar y corroborar la información. Una vez validada, presione "Confirmar" para generar la nueva orden.
+
+**NOTA:IMAGEN**

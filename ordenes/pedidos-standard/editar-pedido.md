@@ -38,4 +38,6 @@ Los cambios aquí afectan el pago final y el monto abonado.
 
 * **Campos editables:** Transaction ID, Plataforma, Monto Total, Fecha de Pago.
 
-<figure><img src="../../.gitbook/assets/27-10-2025_09-14-00.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (4).png" alt=""><figcaption></figcaption></figure>
+
+**NOTA: VIDEO DEMOSTRATIVO DEL PASO A PASO PARA EDITAR UN PEDIDO**

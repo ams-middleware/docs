@@ -26,4 +26,6 @@ Los procedimientos de información general, facturación, envío, mensajería y 
 6. **Visualización Final de los Productos:**
    * Después de aplicar el cambio, la columna de productos mostrará el SKU original de la compra estándar en números y letras rojas, mientras que la información del SKU seleccionado para la nueva compra se mostrará en letras azules.
 
-<figure><img src="../../.gitbook/assets/21-10-2025_09-38-56.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (5).png" alt=""><figcaption></figcaption></figure>
+
+NOTA: VIDEO DEMOSTRATIVO DE PASOS A SEGUIR PARA UN NUEVO CAMBIO DE PEDIDO&#x20;

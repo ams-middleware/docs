@@ -12,4 +12,6 @@
    * Si selecciona **"Aplicar"**, el stock se reservará automáticamente para la orden.
    * La vista de la orden se actualizará para reflejar que se ha aplicado la reserva de stock.
 
-<figure><img src="../.gitbook/assets/04-11-2025_09-54-29.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Logo indumentaria mujer circular simple negro (10).png" alt=""><figcaption></figcaption></figure>
+
+\`NOTA: VIDEO DEMOSTRATIVO DEL PASO A PASO PARA RESERVAR STOCK

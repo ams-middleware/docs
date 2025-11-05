@@ -12,9 +12,9 @@ El **EMW** está configurado por defecto para trabajar con múltiples tiendas si
 
 1.  **Botón de Tienda:**
 
-    * En la barra superior de la plataforma encontrará un botón con el icono ![](<.gitbook/assets/image (1) (1) (1) (1).png>) que le permitirá acceder a la configuración de tiendas.
+    * En la barra superior de la plataforma encontrará un botón con el icono ![](<.gitbook/assets/image (1) (1) (1) (1) (1).png>) que le permitirá acceder a la configuración de tiendas.
 
-    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  **Modal de Selección:**
 
     * Al hacer clic en el botón de "Tienda", se abrirá una ventana modal donde podrá realizar la configuración deseada.
@@ -24,7 +24,7 @@ El **EMW** está configurado por defecto para trabajar con múltiples tiendas si
 
     * **Cliente:** Por defecto se muestra el cliente registrado en la plataforma. Si tiene varios clientes asociados a su usuario, puede cambiar entre ellos utilizando el menú desplegable.
 
-    <div align="center" data-full-width="false"><figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="center" data-full-width="false"><figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
     * **Tienda:** Una vez seleccionado el cliente, el sistema mostrará las tiendas asociadas a ese cliente. Puede seleccionar una o varias tiendas para gestionar.
 

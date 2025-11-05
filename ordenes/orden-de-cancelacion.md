@@ -37,7 +37,7 @@ Siga estos pasos para realizar la cancelación de una orden que cumpla con los r
 
 Una vez que se presione **"Aplicar"**, el sistema realizará automáticamente lo siguiente:
 
-* Se creará una nueva orden tipo **"cancel"** identificada con el prefijo **X1**.
+* Se creará una nueva orden tipo **"cancel"** identificada con el prefijo **X1**
 * En la orden original, los siguientes botones se deshabilitarán:
   * Cambio de status
   * Editar
@@ -46,4 +46,6 @@ Una vez que se presione **"Aplicar"**, el sistema realizará automáticamente lo
   * Cambio
   * Devolución
 
-<figure><img src="../.gitbook/assets/27-10-2025_08-51-36.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Logo indumentaria mujer circular simple negro (7).png" alt=""><figcaption></figcaption></figure>
+
+NOTA:VIDEO DEMOSTRATIVO DE PASOS A SEGUIR PARA CANCELAR UNA ORDEN

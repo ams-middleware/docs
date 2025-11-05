@@ -23,4 +23,6 @@ Solo van aparecer los productos de la ordenes standar y cambios que estén compl
 Es posible realizar devoluciones parciales de un producto. Por ejemplo, si un cliente compró 3 productos y solo desea devolver 1, tiene la opción de hacerlo.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/29-10-2025_16-00-33.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (8).png" alt=""><figcaption></figcaption></figure>
+
+NOTA: VIDEO DEMOSTRATIVO DEL PASO A PASO PARA CREAR UNA ORDEN DE DEVOLUCION&#x20;
