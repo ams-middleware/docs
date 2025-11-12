@@ -4,7 +4,7 @@ description: 'En la creación de una orden standard están los siguientes pasos 
 
 # 🆕 Nuevo Pedido
 
-Al hacer clic en el botón **"Crear Orden"**![](<../../.gitbook/assets/image (1).png>) se desplegará una ventana o pantalla modal con las siguientes secciones y campos obligatorios para completar:
+Al hacer clic en el botón **"Crear Orden"**![](<../../.gitbook/assets/image (2).png>) se desplegará una ventana o pantalla modal con las siguientes secciones y campos obligatorios para completar:
 
 ### Paso 1 : Información General <a href="#pasos-1-informacion-general" id="pasos-1-informacion-general"></a>
 
@@ -44,9 +44,7 @@ Para aplicar un descuento a un producto, haga clic en el símbolo "%". Se abrir�
 * **Código y nombre del cupón** (generado o personalizado).
 * **Tipo de descuento** (porcentaje o precio fijo).
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-**NOTA:  Video demostrativo para añadir cupones de descuento por producto**
+<figure><img src="../../.gitbook/assets/12-11-2025_10-54-32.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -57,16 +55,14 @@ Para aplicar un descuento a un producto, haga clic en el símbolo "%". Se abrir�
 1. Haga clic en "Buscar cliente" para seleccionar un cliente registrado. La búsqueda se puede realizar por DNI, Nombre, Email.
 2. Ingrese los datos del cliente: **Nombre, DNI, Email** y **Teléfono**
 
-<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (2).png" alt=""><figcaption></figcaption></figure>
-
-**NOTA: Video demostrativo para añadir la inforacion del cliente en seccion de facturacion**&#x20;
+<figure><img src="../../.gitbook/assets/12-11-2025_11-02-53 (1).gif" alt=""><figcaption></figcaption></figure>
 
 #### **Dirección de Facturación**
 
 1. Añada una dirección de envío. Los campos Ciudad, Calle, Piso, apartamento y referencia pueden ser completados por el usuario.
 2. Active la casilla para usar la misma información de facturación para el envío, si lo desea.
 
-**Nota: Imagen**&#x20;
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -83,9 +79,9 @@ Para completar esta sección, **repita el mismo procedimiento** utilizado en la 
 
 1. Añada una dirección de envío. Rellene los campos correspondientes.
 
-Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
+Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar"
 
-**NOTA: IMAGEN**&#x20;
+<figure><img src="../../.gitbook/assets/12-11-2025_11-17-17.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 

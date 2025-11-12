@@ -22,7 +22,7 @@ Si realiza el proceso desde un producto **"base"** el servicio actualizara de fo
 
 * Se abrirá una ventana modal con las opciones de sincronización disponibles.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 3\. **Seleccionar un conector:**
