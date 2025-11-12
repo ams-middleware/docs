@@ -4,6 +4,8 @@ description: 'En la creación de una orden standard están los siguientes pasos 
 
 # 🆕 Nuevo Pedido
 
+Al hacer clic en el botón **"Crear Orden"**![](<../../.gitbook/assets/image (1).png>) se desplegará una ventana o pantalla modal con las siguientes secciones y campos obligatorios para completar:
+
 ### Paso 1 : Información General <a href="#pasos-1-informacion-general" id="pasos-1-informacion-general"></a>
 
 A continuación se presentan los campos que el usuario deberá completar:
@@ -15,6 +17,8 @@ A continuación se presentan los campos que el usuario deberá completar:
 5. **Estado:** El estado de la orden (Pendiente o Completado).
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
+
+<figure><img src="../../.gitbook/assets/12-11-2025_10-41-21.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -29,9 +33,9 @@ Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descart
    3.2 Cantidad: Permite especificar la cantidad deseada.\
    3.3 Monto total: Presenta el monto total.
 
-<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (1).png" alt=""><figcaption></figcaption></figure>
+Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
 
-**NOTA:  Video demostrativo para añadir producto a una orden**
+<figure><img src="../../.gitbook/assets/12-11-2025_10-43-52.gif" alt=""><figcaption></figcaption></figure>
 
 #### Añadir cupones de descuento por producto&#x20;
 
@@ -40,7 +44,7 @@ Para aplicar un descuento a un producto, haga clic en el símbolo "%". Se abrir�
 * **Código y nombre del cupón** (generado o personalizado).
 * **Tipo de descuento** (porcentaje o precio fijo).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **NOTA:  Video demostrativo para añadir cupones de descuento por producto**
 

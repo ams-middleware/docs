@@ -15,7 +15,7 @@ Si realiza el proceso desde un producto **"base"** el servicio actualizara de fo
 
 * Localiza y haz clic en el botón **"Sincronizar"** en la interfaz para acceder a la sección de inventario.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 2\.  **Modal de inventario:**
