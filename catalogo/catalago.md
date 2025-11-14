@@ -1,32 +1,44 @@
 # 📝 Catálago
 
-### **Acceder al Listado de Productos:**
+### **1. Acceso al Listado de Productos**
 
-1. Navega hasta la sección de Listado de productos en tu interfaz.
+Para acceder al listado de productos:
 
-### **Visualización del listado de productos**:
+* Navegue hasta la sección "Listado de Productos" en la interfaz principal
+* Haga clic en la pestaña correspondiente para visualizar todos los productos disponibles
 
-Una vez que accedas a la pestaña de listado de productos, encontrarás diferentes columnas con información esencial sobre cada producto. A continuación, se describen las columnas disponibles:
+### **2. Estructura del Listado de Productos**
 
-* **Producto**: En esta columna encontrarás el **nombre del producto** junto con su **SKU** , que es un identificador único para cada producto.
-* **UPC**: Este campo muestra un identificador único de 15 dígitos correspondiente al producto.
-* **Status (Estado)**: Indica si el producto está **Activo**  o **Inactivo.**
-* **Available (Disponible)**: Muestra la **cantidad** de producto que está actualmente disponible en inventario.
-* **Reserve (Reservada)**: Indica la cantidad de producto que ha sido **reservada** y no está disponible para la venta inmediata.
-* **Price (Precio)**: Este es el costo del producto, que será visible a los clientes al momento de la compra.
-* **Type (Tipo)**: Identifica si un producto es Base, Base Color o Simple.
-* **Updated At (Actualizado en)**: Fecha y hora de la **última actualización** de la información del producto, lo que puede incluir cambios en precio, cantidad o estado.
-* **Actions (Acciones)**: Esta columna incluye un botón para la **visualización** del producto, que te permitirá ver más detalles o editar la información del mismo.
+Una vez en la sección, encontrará una tabla organizada con las siguientes columnas:
 
-## **Opciones en la parte superior:**
+* Product ID
+* Product
+* Brand
+* Type
+* Price
+* Stock
+* Created At
+* Updated At
+* Actions
 
-En la parte superior de la vista tendrás las siguientes opciones:
+### **3. Botones de Acción**
 
-1. **Filtrar**: Haz clic en el botón de **filtrado** para ajustar la visualización de los productos según criterios específicos.
+En la columna "Actions" encontrará los siguientes botones:
+
+1. **Visualizar: ver** información completa del producto
+2. **Editar:** Modificar datos del producto, stock o precio
+3. **Movimientos:** Consultar historial de movimientos de stock
+
+### **4. Opciones superiores**
+
+En la parte superior de la vista, dispone de las siguientes herramientas:
+
+1. **Filtrado de productos**
 
 {% hint style="info" %}
 Si necesitas más detalles acerca del procedimiento de filtrado,[ haz clic aquí](https://app.gitbook.com/o/VI72cNjZu41Jwv40i2Us/s/hBvnKBYKvcBtcV6FEhAH/~/changes/101/productos/filtrado-avanzado)
 {% endhint %}
 
-2. **Buscar**: Utiliza el campo correspondiente de **búsqueda**. Solo podrás buscar por el código del SKU.
-3. **Exportar o Eliminar un producto**: Haz clic en los tres puntos (:) a la derecha del buscador de productos para acceder a opciones para exportar la lista o eliminar productos.
+2. **Buscador**
+3. **Generar Archivo**&#x20;
+

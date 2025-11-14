@@ -102,9 +102,7 @@ Para adicionar un cobro de envío se debe realizar lo siguiente:
 
 Para continuar, haga clic en "Siguiente". Si desea cancelar, seleccione "Descartar".
 
-<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (3).png" alt=""><figcaption></figcaption></figure>
-
-**NOTA: VIDEO DEMOSTRATIVO DE LA SECCION DE MENSAJERIA PASO A PASO.**
+<figure><img src="../../.gitbook/assets/13-11-2025_12-34-08.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
