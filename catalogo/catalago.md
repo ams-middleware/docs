@@ -21,6 +21,8 @@ Una vez en la sección, encontrará una tabla organizada con las siguientes colu
 * Updated At
 * Actions
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### **3. Botones de Acción**
 
 En la columna "Actions" encontrará los siguientes botones:
@@ -41,4 +43,3 @@ Si necesitas más detalles acerca del procedimiento de filtrado,[ haz clic aquí
 
 2. **Buscador**
 3. **Generar Archivo**&#x20;
-

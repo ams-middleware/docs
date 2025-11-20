@@ -19,7 +19,7 @@ La información se organiza en las siguientes columnas:
 * **Status**
 * **Última Actualización**
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Botones de acción:**
 

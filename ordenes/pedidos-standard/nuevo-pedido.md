@@ -118,4 +118,4 @@ Los campos obligatorios para registrar un pago son los siguientes:
 
 Para finalizar la orden, haga clic en el botón "Finalizar". A continuación, se mostrará un modal con el resumen del pedido, que le permitirá visualizar y corroborar la información. Una vez validada, presione "Confirmar" para generar la nueva orden.
 
-**NOTA:IMAGEN**
+<figure><img src="../../.gitbook/assets/20-11-2025_10-48-17.gif" alt=""><figcaption></figcaption></figure>
