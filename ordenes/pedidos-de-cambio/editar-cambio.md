@@ -37,6 +37,4 @@ Los procedimientos de información general, facturación, envío, mensajería y 
 * Al aplicar el cambio, el SKU original aparecerá en números y letras rojas para indicar que ha sido modificado.
 * La nueva información del SKU seleccionado se mostrará en letras azules.
 
-<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (6).png" alt=""><figcaption></figcaption></figure>
-
-NOTA: VIDEO DEMOSTRATIVO DE PASO A PASO PARA EDICION DE UN CAMBIO
+<figure><img src="../../.gitbook/assets/20-11-2025_15-05-57.gif" alt=""><figcaption></figcaption></figure>
