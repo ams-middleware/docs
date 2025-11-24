@@ -46,6 +46,4 @@ Una vez que se presione **"Aplicar"**, el sistema realizará automáticamente lo
   * Cambio
   * Devolución
 
-<figure><img src="../.gitbook/assets/Logo indumentaria mujer circular simple negro (7).png" alt=""><figcaption></figcaption></figure>
-
-NOTA:VIDEO DEMOSTRATIVO DE PASOS A SEGUIR PARA CANCELAR UNA ORDEN
+<figure><img src="../.gitbook/assets/21-11-2025_13-39-17.gif" alt=""><figcaption></figcaption></figure>
