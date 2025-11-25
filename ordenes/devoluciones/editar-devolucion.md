@@ -25,10 +25,6 @@ Los procedimientos de información general, facturación, envío, mensajería y 
 * Haz clic en "Buscar producto" para abrir un modal con los productos disponibles.
 * Escoge el nuevo producto y haz clic en "Aplicar".
 
-2. **Relación de Productos:**
-
-* Aparecerá una alerta para relacionar el nuevo producto con el original. Haz clic en el ícono de "cambio".
-
 ### Modalidad de Selección de Productos
 
 * Se abrirá un modal con la siguiente información:
@@ -44,6 +40,5 @@ Los procedimientos de información general, facturación, envío, mensajería y 
 * Al aplicar el cambio, el SKU original aparecerá en números y letras rojas para indicar que ha sido modificado.
 * La nueva información del SKU seleccionado se mostrará en letras azules.
 
-<figure><img src="../../.gitbook/assets/Logo indumentaria mujer circular simple negro (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/25-11-2025_08-41-24.gif" alt=""><figcaption></figcaption></figure>
 
-NOTA: VIDEO DEMOSTRATIVO DEL PASO A PASO PARA LA EDICION DE UNA ORDEN DE DEVOLUCION&#x20;
