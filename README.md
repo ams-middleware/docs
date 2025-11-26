@@ -55,14 +55,14 @@ El sistema está diseñado para crecer con su negocio, ofreciendo:
 [broken-reference](broken-reference/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/sVRKVj4i4IwEcSrNmJcX" %}
+[Broken link](/broken/pages/sVRKVj4i4IwEcSrNmJcX)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/z2lWINdhuZYO3rVcRHC9" %}
+[Broken link](/broken/pages/z2lWINdhuZYO3rVcRHC9)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/ZSyn6hkfyRMx1wEDErEe" %}
+[Broken link](/broken/pages/ZSyn6hkfyRMx1wEDErEe)
 {% endcontent-ref %}

@@ -25,7 +25,7 @@ description: Proceso de Versionado de Órdenes
 ### Versionar Orden Estándar
 
 {% hint style="info" %}
-No se puede versionar una Orden Standar si tiene órdenes relacionadas (cambio o devolución).
+No se puede versionar una Orden Estándar si tiene órdenes relacionadas (cambio o devolución).
 {% endhint %}
 
 * Al hacer clic en **"Aplicar"**:
@@ -54,6 +54,8 @@ No se puede versionar una Orden Standar si tiene órdenes relacionadas (cambio o
 
 ***
 
-<figure><img src="../.gitbook/assets/Logo indumentaria mujer circular simple negro (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/26-11-2025_09-45-48.gif" alt=""><figcaption></figcaption></figure>
 
-NOTA: VIDEO DEMOSTRATIVO DEL PASO A PASO PARA VERSIONAR UNA ORDEN
+{% hint style="info" %}
+**El procedimiento para versionar una orden estándar, que se muestra en el video, también aplica para las órdenes de cambio y devolución.**
+{% endhint %}

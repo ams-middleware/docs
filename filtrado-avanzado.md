@@ -33,9 +33,7 @@ El botón de filtrado avanzado se encuentra a la izquierda del campo de búsqued
 
 * Haga clic en el botón "Filtrar" para aplicar los filtros y ver los resultados en el listado.
 
-<figure><img src=".gitbook/assets/Logo indumentaria mujer circular simple negro (13).png" alt=""><figcaption></figcaption></figure>
-
-**NOTA: VIDEO DEMOSTRATIVO DE PASO A PASO PARA AGREGAR UN NUEVO FILTRO**
+<figure><img src=".gitbook/assets/26-11-2025_10-42-02.gif" alt=""><figcaption></figcaption></figure>
 
 
 
