@@ -1,13 +1,36 @@
+---
+description: >-
+  En Middleware, cada orden pasa por diferentes estados que indican su progreso
+  en el proceso de ejecución. A continuación, se describen los estados
+  disponibles:
+---
+
 # 🔄 Estados y Flujos
 
-Para cambiar el status de una orden, sigue estos pasos:
+**Estados Disponibles**
 
-1. **Acceder al Listado de Órdenes**: Dirígete al listado donde se encuentran todas las órdenes.
-2. **Visualizar la Orden**: Haz clic en el botón "visualizar" correspondiente a la orden que deseas modificar.
-3. **Cambiar Status**: Una vez abierta la pantalla de la orden, busca en la parte superior la opción "Cambiar status". Haz clic en este botón.
-4. **Seleccionar Nuevo Status**: Se abrirá un modal donde podrás seleccionar el nuevo status para la orden, que son los siguientes:&#x20;
+1. **Pending (Pendiente)**
+   * La orden ha sido registrada y está en espera de iniciar su procesamiento.
+2. **Complete (Completada)**
+   * La orden ha sido procesada exitosamente y finalizó todas sus etapas.
+   * **Nota:** Una orden en este estado no puede volver a **Pending** ni ser cancelada.
+3. Cancel (Cancelada)
+   * Permite anular una orden en cualquier momento antes de que alcance el estado **Complete**.
 
-* **Pending (Pendiente):** La orden está en espera de procesamiento.
-* **Complete (Completado):** La orden ha sido finalizada.
-* **Cancel (Cancelar):** Opción para anular la orden.
-* **Delete (Eliminar):** Opción para borrar la orden del sistema.
+#### **Procedimiento para Cambiar el Estado**
+
+1. **Acceder al Listado de Órdenes**
+   * Diríjase a la sección donde se listan todas las órdenes.
+2. **Abrir la Orden**
+   * Haga clic en el botón **“Visualizar”** de la orden que desea modificar.
+3. **Cambiar Estado**
+   * Dentro de la pantalla de detalle de la orden, ubique la opción **“Cambiar status”** en la parte superior.
+   * Presione este botón para abrir el menú de estados.
+4. **Seleccionar Nuevo Estado**
+   * En la ventana emergente, elija el estado deseado:
+     * **Pending (Pendiente)**
+     * **Complete (Completado)**
+     * **Cancel (Cancelar)**
+   * Confirme la selección para actualizar el estado de la orden.
+
+<figure><img src="../.gitbook/assets/07-01-2026_16-27-53 (1).gif" alt=""><figcaption></figcaption></figure>

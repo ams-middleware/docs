@@ -4,7 +4,7 @@ icon: lock
 
 # Recuperar Contraseña
 
-**Proceso de Restablecimiento**
+### **Proceso de Restablecimiento**
 
 ¿Olvidaste tu contraseña? No te preocupes, sigue estos sencillos pasos para recuperar el acceso a tu cuenta:
 
@@ -23,4 +23,4 @@ icon: lock
     * Una vez completados todos los campos, presiona el botón "Cambiar contraseña"
     * El sistema confirmará el cambio exitoso.
 
-    <figure><img src="../../.gitbook/assets/Peek 2025-01-07 16-42 (1).gif" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Peek 2025-01-07 16-42 (1).gif" alt=""><figcaption></figcaption></figure>

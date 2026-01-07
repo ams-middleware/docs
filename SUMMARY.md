@@ -25,7 +25,7 @@
   * [Automatización](ordenes/automatizacion.md)
   * [ℹ️ FAQ](ordenes/faq.md)
 * [📦 Catalogo](catalogo/README.md)
-  * [📝 Catálago](catalogo/catalago.md)
+  * [📝 Catálogo](catalogo/catalogo.md)
   * [👁️ Producto Base](catalogo/producto-base/README.md)
     * [Información General](catalogo/producto-base/informacion-general.md)
     * [✏️ Editor Base](catalogo/producto-base/editor-base.md)
