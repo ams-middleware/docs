@@ -1,15 +1,40 @@
+---
+description: >-
+  El sistema Middleware realiza reservas automáticas de stock. Para visualizar
+  el estado de estas reservas y su procesamiento, siga este procedimiento.
+---
+
 # 📦 Reservar Stock
 
-## Instrucciones para Reservar Stock
+#### **Procedimiento para Visualizar Stock Reservado**
 
-1. **Acceder al Detalle de la Orden**: Navegue hasta el detalle de la orden donde desea reservar stock.
-2. **Ubicar el Botón de Reserva**: El botón "Reservar Stock" se encuentra ubicado dentro del menú desplegable **"Otras Acciones"**
-3. **Clic en el Botón**: Haga clic en el botón **"Reservar stock"**. Esto abrirá un modal de confirmación.
-4. **Opciones en el Modal**:
-   * Si está seguro de que desea reservar el stock, haga clic en **"Aplicar"**.
-   * Si no está seguro y desea cancelar la acción, haga clic en **"Cerrar"**.
-5. **Confirmación de Reserva**:
-   * Si selecciona **"Aplicar"**, el stock se reservará automáticamente para la orden.
-   * La vista de la orden se actualizará para reflejar que se ha aplicado la reserva de stock.
+**Paso 1:** Acceder al Producto.\
+**Paso 2:** Consultar Movimientos de Stock.
 
-<figure><img src="../.gitbook/assets/26-11-2025_09-27-59.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/06-01-2026_12-34-18.gif" alt=""><figcaption></figcaption></figure>
+
+#### **Tipos de Acciones en Movimientos de Stock**
+
+• **RESERVED :** Representa que el sistema ha reservado automáticamente stock para un pedido o transacción pendiente.
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+\
+• **OUT :** Representa que el stock reservado ha sido descontado del inventario.
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
+\
+• **SKIP :** Representa una actualización o ajuste en el stock reservado.
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+\
+• **SET:** Representa la actualización de stock en el sistema.
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+\
+<br>

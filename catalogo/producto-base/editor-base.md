@@ -1,16 +1,24 @@
 # ✏️ Editor Base
 
-Para editar la información del producto, hacer clic en el **Botón de Edición**, se habilitan varios campos relevantes para modificación.&#x20;
+Para editar la información del producto, hacer clic en el **Botón de Editar**, se habilitan varios campos relevantes para modificación.&#x20;
 
 A continuación, se detallan las opciones disponibles para editar:
 
-1. **Nombre**
-2. **Sku**
-3. **Upc**&#x20;
-4. Brand&#x20;
-5. Etiquetas&#x20;
-6. Precio
-7. Stock&#x20;
-8. Atributos personalizados
+#### Información de Producto
 
-Tiene la opción para "Descartar" que permitiría al usuario cancelar cualquier cambio realizado y volver al estado anterior, mientras que "Guardar Edición" le permitiría confirmar y guardar los cambios realizados.
+* Nombre
+* Categoría
+* Variantes&#x20;
+* Tags
+
+#### Atributos
+
+* General
+* Seo
+
+**Opciones de confirmación:**
+
+* **Descartar:** Cancela todos los cambios y restaura la información original.
+* **Guardar Edición:** Confirma y guarda las modificaciones realizadas.
+
+<figure><img src="../../.gitbook/assets/09-12-2025_11-24-50.gif" alt=""><figcaption></figcaption></figure>
