@@ -11,7 +11,7 @@ Para acceder al listado de productos:
 
 Una vez en la sección, encontrará una tabla organizada con las siguientes columnas:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **3. Botones de Acción**
 

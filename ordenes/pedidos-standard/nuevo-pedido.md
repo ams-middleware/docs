@@ -4,7 +4,7 @@ description: 'En la creación de una orden standard están los siguientes pasos 
 
 # 🆕 Nuevo Pedido
 
-Al hacer clic en el botón **"Crear Orden"**![](<../../.gitbook/assets/image (2) (1).png>) se desplegará una ventana o pantalla modal con las siguientes secciones y campos obligatorios para completar:
+Al hacer clic en el botón **"Crear Orden"** se desplegará una ventana o pantalla modal con las siguientes secciones y campos obligatorios para completar:
 
 ### Paso 1 : Información General <a href="#pasos-1-informacion-general" id="pasos-1-informacion-general"></a>
 
@@ -62,7 +62,7 @@ Para aplicar un descuento a un producto, haga clic en el símbolo "%". Se abrir�
 1. Añada una dirección de envío. Los campos Ciudad, Calle, Piso, apartamento y referencia pueden ser completados por el usuario.
 2. Active la casilla para usar la misma información de facturación para el envío, si lo desea.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

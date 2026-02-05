@@ -33,8 +33,3 @@ description: >-
 • **SET:** Representa la actualización de stock en el sistema.
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
-
-<br>
-
-\
-<br>
