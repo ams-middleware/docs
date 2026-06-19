@@ -1,7 +1,3 @@
----
-icon: ballot
----
-
 # Detalles Pedido
 
 ### Vista Principal de Detalles

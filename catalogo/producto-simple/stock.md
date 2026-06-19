@@ -1,7 +1,3 @@
----
-icon: circle-check
----
-
 # Stock
 
 Esta sección detalla la información relacionada con el stock reservado, que incluye:

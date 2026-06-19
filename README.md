@@ -1,3 +1,7 @@
+---
+icon: bag-shopping
+---
+
 # 🛍️ E-MW: Gestión E-commerce
 
 **EMW** (E-commerce Management Workflow) es una plataforma avanzada que actúa como sistema intermediario entre múltiples plataformas de comercio electrónico y las empresas. Su principal función es unificar y centralizar todas las órdenes de compra realizadas en diferentes marketplaces y tiendas online, ofreciendo una única interfaz integral para la gestión completa de ventas. La integración nativa con sistemas **BPM** (Business Process Management) permite que EMW se adapte dinámicamente a los flujos de trabajo específicos de cada cliente, automatizando los procesos de venta y facilitando la conexión con otras herramientas empresariales.

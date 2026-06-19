@@ -1,7 +1,3 @@
----
-icon: store
----
-
 # Multi-Tienda
 
 {% hint style="info" %}

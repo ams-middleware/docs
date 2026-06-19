@@ -1,7 +1,3 @@
----
-icon: info
----
-
 # Información General
 
 #### **Sección 1: Detalles del Producto**

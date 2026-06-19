@@ -1,7 +1,3 @@
----
-icon: arrows-rotate
----
-
 # Procesador Masivo
 
 ### **Proceso de Sincronización Masiva**

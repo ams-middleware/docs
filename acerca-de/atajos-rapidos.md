@@ -1,7 +1,3 @@
----
-icon: arrow-turn-left
----
-
 # Atajos rápidos
 
 **Atajos en el Listado de Órdenes:**

@@ -1,7 +1,3 @@
----
-icon: interrobang
----
-
 # FAQ's
 
 En esta sección de FAQ's, encontrarás soluciones a errores comunes al sincronizar productos, como verificar y completar Variants (size y color) en productos base (SKU de 9 dígitos) o base color (SKU d**1. ¿Qué debo hacer si el producto es base (SKU de 9 dígitos)?**

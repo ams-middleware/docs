@@ -3,7 +3,6 @@ description: >-
   El filtrado avanzado permite realizar búsquedas específicas y personalizadas
   en los listados, aplicando múltiples criterios simultáneos para obtener
   resultados más precisos y relevantes.
-icon: filter-circle-dollar
 ---
 
 # Filtrado Avanzado

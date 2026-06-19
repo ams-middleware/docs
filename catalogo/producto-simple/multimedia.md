@@ -1,7 +1,3 @@
----
-icon: rectangle-history
----
-
 # Multimedia
 
 {% hint style="info" %}

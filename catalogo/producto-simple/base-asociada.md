@@ -1,7 +1,3 @@
----
-icon: ring
----
-
 # Base Asociada
 
 En la **Sección de Base** del sistema, se presenta un resumen conciso del producto Base, que proporciona información clave para la gestión y visualización rápida. A continuación se detalla la información que se muestra en esta sección:

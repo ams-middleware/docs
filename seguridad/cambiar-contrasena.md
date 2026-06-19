@@ -1,7 +1,3 @@
----
-icon: lock
----
-
 # Cambiar Contraseña
 
 #### **1. Acceso al Sistema**

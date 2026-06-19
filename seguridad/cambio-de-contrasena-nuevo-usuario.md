@@ -1,7 +1,3 @@
----
-icon: user
----
-
 # Cambio de contraseña Nuevo Usuario
 
 #### **Paso 1: Inicio de Sesión**

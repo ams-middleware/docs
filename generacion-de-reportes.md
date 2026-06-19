@@ -1,7 +1,3 @@
----
-icon: rectangle-history
----
-
 # Generación de Reportes
 
 

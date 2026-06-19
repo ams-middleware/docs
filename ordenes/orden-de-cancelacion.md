@@ -1,7 +1,3 @@
----
-icon: xmark-large
----
-
 # Orden de Cancelación
 
 El botón de cancelación solo estará habilitado para las órdenes tipo Estándar que se encuentren en estado "Completado" y que cumplan con los siguientes requisitos adicionales:&#x20;

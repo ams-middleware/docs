@@ -1,2 +1,6 @@
+---
+icon: tags
+---
+
 # 📦 PRODUCTOS
 

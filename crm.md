@@ -1,4 +1,5 @@
 ---
+icon: address-book
 description: 'Para acceder y manejar el listado de CRM en tu interfaz, sigue estos pasos:'
 ---
 

@@ -1,7 +1,3 @@
----
-icon: arrows-rotate
----
-
 # Sincronizar
 
 A través de la plataforma de e-Middleware, el usuario tiene la capacidad de sincronizar una orden desde la plataforma externa utilizando el código de referencia (ref code) que esta genera.

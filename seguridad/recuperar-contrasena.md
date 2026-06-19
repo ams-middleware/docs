@@ -1,7 +1,3 @@
----
-icon: lock
----
-
 # Recuperar Contraseña
 
 ### **Proceso de Restablecimiento**

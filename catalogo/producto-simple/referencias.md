@@ -1,7 +1,3 @@
----
-icon: user
----
-
 # Referencias
 
 Esta sección muestra información detallada del historial del producto, que incluye:
