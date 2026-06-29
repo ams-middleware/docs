@@ -27,7 +27,7 @@ Antes de conectar, asegúrese de tener:
 | Requisito | Detalle |
 |-----------|---------|
 | **Token de acceso** | Su clave personal para la API pública. Si no la tiene, solicítela a nuestro equipo de soporte (ver más abajo). **Es personal e intransferible.** |
-| **URL del feed** | La dirección de sus datos. Para órdenes es: `https://api.e-middleware.ar/odata/Orders` |
+| **URL del servicio** | La **raíz** del servicio OData: `https://api.e-middleware.ar/odata`. Power BI / Excel descubren solos los feeds disponibles (hoy: `orders`). **Importante:** apunte a `/odata`, **no** a `/odata/orders` — si apunta directo a un feed, la herramienta no reconoce el servicio. |
 | **La herramienta instalada** | **Power BI Desktop** (gratuito) o **Microsoft Excel** (versión 2016 o superior, con *Power Query / Obtener datos*). |
 | **Conexión a internet** | Necesaria para traer y refrescar los datos. |
 
@@ -39,13 +39,17 @@ Antes de conectar, asegúrese de tener:
 
 ### Datos disponibles
 
-Actualmente puede conectarse a:
+Se conecta a la **raíz** `https://api.e-middleware.ar/odata` y la herramienta le muestra los feeds disponibles para elegir:
 
-| Feed | URL | Contenido |
-|------|-----|-----------|
-| **Órdenes** | `/odata/Orders` | Sus pedidos con sus datos (fechas, estados, totales, cliente, ítems). |
+| Feed (tabla) | Contenido |
+|------|-----------|
+| **`orders`** | Sus pedidos con todos sus datos: fechas, estados, totales, datos del comprador, envío, facturación e ítems. |
 
 > Próximamente se sumarán más conjuntos de datos (ventas por día, stock). Esta sección se actualizará a medida que estén disponibles.
+
+{% hint style="info" %}
+**Sus datos llegan con la misma estructura que en el sistema.** Cada orden conserva su forma original, incluyendo la información **anidada** (envío, facturación, ítems, pagos…) como sub-tablas. No se aplana ni se recorta nada: usted decide qué expandir y mostrar desde Power BI o Excel.
+{% endhint %}
 
 ***
 
