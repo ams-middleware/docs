@@ -1,19 +1,20 @@
 ---
 icon: chart-pie
+description: Sacar sus datos de la plataforma para analizarlos.
 ---
 
-# 📊 Datos y Análisis
+# 📊 Datos y análisis
 
-Todo lo relacionado con **obtener, filtrar y analizar** la información de su operación está agrupado aquí.
-
-***
-
-### Contenido
-
-* [🔍 Filtrado Avanzado](../filtrado-avanzado.md) — acote la información en pantalla antes de exportarla o analizarla.
-* [📄 Generación de Reportes](../generacion-de-reportes.md) — genere y descargue archivos con sus datos.
-* [🔌 Conexión con BI (PowerBI / Excel)](../conexion-bi/README.md) — conecte herramientas externas a sus datos en vivo vía la API pública (OData).
+| | Cuándo usarlo |
+|---|---|
+| [Reportes](reportes.md) | Necesita un archivo puntual, ahora. |
+| [Power BI](../conexion-bi/powerbi.md) | Quiere un tablero que se actualice solo. |
+| [Excel](../conexion-bi/excel.md) | Quiere una planilla conectada a los datos en vivo. |
 
 {% hint style="info" %}
-Para análisis puntuales o descargas, use **Reportes**. Para tableros que se actualizan solos, use la **Conexión con BI**.
+💡 La diferencia en una línea: **Reportes** es una foto; **Power BI y Excel** son una conexión que se
+refresca sola.
 {% endhint %}
+
+Cualquiera de los tres empieza igual: acote los datos con
+[Filtrado avanzado](../comunes/filtrado-avanzado.md).

@@ -1,56 +1,54 @@
 # Monitor de conexión
 
-El **monitor de conexión** es el ícono de señal (📶) que aparece en la barra superior, a la derecha.
-Sirve para responder una sola pregunta cuando el sistema se siente lento:
+El **monitor de conexión** es el punto de color que aparece en la barra inferior (footer), a la
+derecha. Sirve para responder una sola pregunta cuando el sistema se siente lento:
 
-> **¿El problema es mi internet, o es el servidor?**
+> **¿El problema es del sistema, o no?**
 
 En lugar de adivinar, el monitor lo mide y te lo dice.
 
 ## El semáforo
 
-El color del ícono resume el estado de tu conexión en ese momento:
+El color del punto resume el estado del servicio en ese momento:
 
 | Color | Significa |
 |-------|-----------|
-| 🟢 Verde | Todo bien: conexión y servidor respondiendo con normalidad. |
-| 🟡 Amarillo | Algo está lento, pero seguís pudiendo trabajar. |
-| 🔴 Rojo | Hay un problema serio de conexión o el servidor no responde. |
+| 🟢 Verde | Todo bien: el servidor responde con normalidad. |
+| 🟡 Amarillo | El servidor está lento, pero seguís pudiendo trabajar. |
+| 🔴 Rojo | El servidor no responde o tarda demasiado. |
 
-No hace falta hacer nada para que funcione: se actualiza solo cada cierto tiempo mientras usás el
-sistema.
+Si además hay algún servicio caído, el footer lo avisa directamente con un texto
+("N servicio(s) con problemas").
 
 ## El detalle
 
-Al hacer clic en el ícono se abre un panel con el diagnóstico. Arriba vas a ver una **frase-veredicto**
-que te dice directamente a quién atribuir la lentitud, y debajo los tres indicadores que la componen:
+Al hacer clic se abre un panel con el diagnóstico. Arriba vas a ver una **frase-veredicto** que te
+dice directamente a quién atribuir la lentitud, y debajo los indicadores que la componen:
 
 | Indicador | Qué mide |
 |-----------|----------|
-| **Tu internet** | La velocidad de tu propia conexión (tu wifi / red local). |
-| **Red** | La distancia y la ruta entre vos y el servidor. |
+| **Recorrido al servidor** | La distancia y la ruta entre vos y el servidor. |
 | **Servidor** | El tiempo que tarda el servidor en procesar y responder. |
-
-Cada indicador tiene su propio color, así ves de un vistazo **cuál de los tres es el que está lento**.
+| **Servicios** | Si cada servicio del sistema está respondiendo, y en cuánto tiempo. |
 
 {% hint style="info" %}
-Un valor alto en **Red** normalmente significa que el servidor está lejos geográficamente —no que algo
-esté roto—. Un valor alto en **Servidor** sí indica que el problema es del lado del sistema. Y un valor
-alto en **Tu internet** apunta a tu propia conexión.
+Un valor alto en **Recorrido al servidor** normalmente significa que el servidor está lejos
+geográficamente —no que algo esté roto—, por eso se muestra en gris y nunca prende la alarma. Un
+valor alto en **Servidor** sí indica que el problema es del lado del sistema.
 {% endhint %}
 
 ## Reportar un problema
 
 Si el sistema te resulta lento y querés que soporte lo revise:
 
-1. Hacé clic en el ícono de señal (📶) de la barra superior.
+1. Hacé clic en el monitor de conexión, en la barra inferior.
 2. Presioná **Copiar**.
 3. Pegá ese texto en tu mensaje a soporte (o adjuntá una captura del panel).
 
-Ese diagnóstico le da a nuestro equipo la información exacta para saber dónde está el cuello de botella
-sin tener que pedirte más datos.
+Ese diagnóstico le da a nuestro equipo la información exacta para saber dónde está el cuello de
+botella sin tener que pedirte más datos.
 
 {% hint style="success" %}
-Con ese reporte podemos distinguir en segundos si conviene revisar tu red o la nuestra —y ahorrarte
-idas y vueltas—.
+Con ese reporte podemos distinguir en segundos si el problema es nuestro —y ahorrarte idas y
+vueltas—.
 {% endhint %}

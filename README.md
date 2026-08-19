@@ -1,72 +1,44 @@
 ---
 icon: bag-shopping
+description: Qué es E-MW y qué puede hacer con la plataforma.
 ---
 
-# 🛍️ E-MW: Gestión E-commerce
+# 🏠 Inicio
 
-**EMW** (E-commerce Management Workflow) es una plataforma avanzada que actúa como sistema intermediario entre múltiples plataformas de comercio electrónico y las empresas. Su principal función es unificar y centralizar todas las órdenes de compra realizadas en diferentes marketplaces y tiendas online, ofreciendo una única interfaz integral para la gestión completa de ventas. La integración nativa con sistemas **BPM** (Business Process Management) permite que EMW se adapte dinámicamente a los flujos de trabajo específicos de cada cliente, automatizando los procesos de venta y facilitando la conexión con otras herramientas empresariales.
+**E-MW** conecta sus canales de venta —tiendas propias y marketplaces— con una sola pantalla de
+trabajo. Las órdenes entran solas, los productos salen publicados y usted opera todo desde acá, sin
+entrar a cada plataforma por separado.
 
-## Características Principales
+{% hint style="info" %}
+💡 ¿Primera vez? Vaya directo a [Primeros pasos](primeros-pasos/README.md): son 5 minutos y le ahorra
+buscar dónde está cada cosa.
+{% endhint %}
 
-### Integración y Centralización
+## Qué resuelve
 
-EMW destaca por su capacidad de integración con múltiples plataformas de e-commerce, permitiendo una gestión unificada de todas las operaciones de venta. Esta centralización elimina la necesidad de gestionar múltiples interfaces y reduce significativamente la complejidad operativa.
+| | |
+|---|---|
+| 📦 **Órdenes** | Todos los pedidos de todos los canales en un listado. Cambios, devoluciones y cancelaciones incluidos. |
+| 🏷️ **Productos** | Un catálogo central que se publica en cada canal con las reglas de ese canal. |
+| 🔌 **Conectores** | La conexión con cada tienda o marketplace: qué se sincroniza y cada cuánto. |
+| 🗂️ **Gestión masiva** | Cargar, actualizar o exportar miles de registros con un archivo. |
+| 📊 **Datos** | Reportes y conexión directa con Power BI o Excel. |
 
-### Automatización Inteligente
+## Cómo está organizado este manual
 
-La conexión con sistemas BPM permite una automatización sofisticada de los procesos de venta, adaptándose a las necesidades específicas de cada negocio. Esta característica facilita:
+1. **[Primeros pasos](primeros-pasos/README.md)** — acceso, recorrido por la pantalla y vocabulario.
+2. **[Lo que se repite](comunes/README.md)** — buscar, filtrar, exportar, acciones masivas. Se explica
+   una sola vez acá y el resto del manual lo enlaza.
+3. **Operativa diaria** — Órdenes, Productos, Conectores, Clientes, Facturas.
+4. **Configuración** — tiendas, workflow, reglas y tareas programadas.
 
-* Procesamiento automático de órdenes
-* Gestión de inventario en tiempo real
-* Sincronización de datos entre plataformas
-* Optimización de flujos de trabajo
+{% hint style="info" %}
+💡 Cada pantalla de la plataforma tiene un **botón de ayuda** en la barra superior que abre la página
+de este manual que le corresponde.
+{% endhint %}
 
-### Flexibilidad y Escalabilidad
+## Si algo no funciona
 
-El sistema está diseñado para crecer con su negocio, ofreciendo:
-
-* Adaptabilidad a diferentes modelos de negocio
-* Personalización avanzada de flujos de trabajo
-* Escalabilidad para manejar volúmenes crecientes de operaciones
-* Integración con nuevas plataformas y servicios
-
-## Componentes Clave
-
-* **Sistema Intermediario Unificado:**
-  * Centraliza órdenes de compra de múltiples plataformas
-  * Proporciona una visión integral de todas las operaciones
-  * Facilita la gestión multicanal
-* **Plataforma de Gestión Centralizada:**
-  * Interface única para todas las operaciones
-  * Dashboard personalizable
-  * Reportes y análisis en tiempo real
-* **Motor de Automatización:**
-  * Integración BPM para flujos de trabajo personalizados
-  * Automatización de procesos repetitivos
-  * Reducción de errores operativos
-* **Store API Services:**
-  * Capa de integración flexible
-  * Conexión con múltiples servicios de e-commerce
-  * APIs robustas y documentadas
-* **Sistema de Seguridad Avanzado:**
-  * Autenticación basada en tokens
-  * Encriptación de datos sensibles
-  * Cumplimiento con estándares de seguridad
-
-## Módulos del Sistema
-
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/sVRKVj4i4IwEcSrNmJcX" %}
-[Broken link](/broken/pages/sVRKVj4i4IwEcSrNmJcX)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/z2lWINdhuZYO3rVcRHC9" %}
-[Broken link](/broken/pages/z2lWINdhuZYO3rVcRHC9)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/ZSyn6hkfyRMx1wEDErEe" %}
-[Broken link](/broken/pages/ZSyn6hkfyRMx1wEDErEe)
-{% endcontent-ref %}
+Revise primero las [Preguntas frecuentes](acerca-de/preguntas-frecuentes-middleware.md) y el
+[Monitor de conexión](acerca-de/monitor-de-red.md). Si sigue trabado, escriba a
+[support@mw-flow.com](mailto:support@mw-flow.com) indicando el número de orden o el SKU.
