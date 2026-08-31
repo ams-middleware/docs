@@ -14,11 +14,10 @@ Dentro de este ecosistema, encontramos varios microservicios clave que trabajan 
 
 Entre los microservicios, podemos destacar aquellos de acceso público como:&#x20;
 
-* **Public-Api** [intro.md](public-api/intro.md "mention") — el servicio de integración vigente
-* **Store-Api** [intro.md](store-apis/intro.md "mention") — versión anterior, para las integraciones que ya la usan
+* **Store-Api** [intro.md](store-apis/intro.md "mention")&#x20;
 * **Store-Web** [https://admin.e-middleware.dev/](https://admin.e-middleware.dev/)
 * **Control-Api** [intro.md](control-api/intro.md "mention")
-* **Control-Web "**próximamente"
+* **Control-Web "**&#x70;róximamente"
 
 Cada microservicio público desempeña un rol crucial en las operaciones del negocio. Store-api y store-web gestionan órdenes de compra, cambios y devoluciones sin necesidad de una plataforma e-commerce externa. Control-api ofrece herramientas para administración y monitoreo, mientras que control-web, próximamente, proporcionará una interfaz intuitiva para los administradores.
 
