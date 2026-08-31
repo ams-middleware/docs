@@ -68,6 +68,7 @@
 
 ## Para desarrolladores
 
+* [🔗 Conectar su sistema por API](api-publica.md)
 * [🤖 Asistente IA por API](api-asistente/README.md)
   * [Guía de integración](api-asistente/integracion.md)
   * [Identificar al comprador](api-asistente/identificacion.md)

@@ -43,3 +43,9 @@ aparecen acá. El paso a paso y el formato del archivo están en
 ⚠️ Un archivo grande puede tardar. No lo vuelva a subir porque "no pasó nada": revise primero el
 estado del proceso. Subirlo dos veces duplica el trabajo y puede duplicar registros.
 {% endhint %}
+
+
+## Cargar desde su propio sistema
+
+Además del archivo, puede crear productos y actualizar stock y precios por API, de a lotes. Ver
+[Productos](https://docs.e-middleware.dev/public-api/productos) en la documentación técnica.

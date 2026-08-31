@@ -44,3 +44,10 @@ quiere cambiar el orden, reordénela: no la borre.
 
 Si un canal necesita otra foto, cárguela como valor específico de ese conector. Ver
 [Publicar en un canal](productos/publicar.md).
+
+
+## Usar las imágenes desde su sitio
+
+El middleware sirve cada imagen con el tamaño, el formato y la calidad que le pida, sin que tenga que
+generar versiones previas. Ver
+[Multimedia](https://docs.e-middleware.dev/public-api/multimedia) en la documentación técnica.

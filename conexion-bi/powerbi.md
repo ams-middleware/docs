@@ -120,3 +120,11 @@ Una vez cargados los datos, arme un informe para verlos:
 | **"Demasiado complejo para mostrarse"** | No es un error: es solo la vista previa con datos anidados. Haga **Cerrar y aplicar**; los datos se cargan igual. |
 | **No trae datos / tabla vacía** | Su cuenta no tiene órdenes en el período, o el filtro aplicado es muy restrictivo. |
 | **La actualización tarda mucho** | Active el **refresco incremental** por fecha (ver paso 7) o filtre el rango de fechas. |
+
+
+***
+
+### ¿Prefiere conectarse desde su propio sistema?
+
+Los mismos datos están disponibles por API. Ver
+[Reporting (OData)](https://docs.e-middleware.dev/public-api/reporting) en la documentación técnica.

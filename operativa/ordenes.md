@@ -68,3 +68,9 @@ movimientos se ven en el producto:
 ⚠️ Una orden cancelada libera su reserva, pero **no de inmediato**: puede tardar unos minutos en
 verse reflejado en el stock disponible del canal.
 {% endhint %}
+
+
+## Consultar órdenes desde su propio sistema
+
+Su sistema puede leer y buscar órdenes por API, con los mismos filtros del panel. Ver
+[Órdenes](https://docs.e-middleware.dev/public-api/ordenes) en la documentación técnica.
