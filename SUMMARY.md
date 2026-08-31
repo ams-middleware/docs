@@ -2,16 +2,6 @@
 
 * [Welcome!](README.md)
 
-## Public API
-
-* [Intro](public-api/intro.md)
-* [Autenticación](public-api/autenticacion.md)
-* [Órdenes](public-api/ordenes.md)
-* [Productos](public-api/productos.md)
-* [Seguimiento](public-api/seguimiento.md)
-* [Multimedia](public-api/multimedia.md)
-* [Reporting (OData)](public-api/reporting.md)
-
 ## Store APIs
 
 * [Intro](store-apis/intro.md)
