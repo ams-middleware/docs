@@ -12,6 +12,10 @@ Content-Type: application/json
 Authorization: Bearer <token>
 ```
 
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/chat/message" method="post" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
 ```json
 {
   "message": "¿Dónde está mi pedido?",

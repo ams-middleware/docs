@@ -10,6 +10,10 @@ Devuelve las plataformas con las que el middleware puede conectarse —tiendas, 
 GET /v3/integration/search?type=ecommerce&limit=20
 ```
 
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/integration/search" method="get" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
 | Parámetro | Tipo | Para qué |
 | --- | --- | --- |
 | `type` | string | Filtrar por tipo (`ecommerce`, `courier`, `payment`, `notification`, …) |

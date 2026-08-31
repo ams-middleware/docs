@@ -16,6 +16,10 @@ Son los únicos endpoints de órdenes que no exigen el token del conector. El `t
 GET /v3/tracking/{order_uid}?token={token_de_seguimiento}
 ```
 
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/tracking/{order_uid}" method="get" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
 ```bash
 curl "https://su-host.e-middleware.ar/v3/tracking/ORD000123456?token=abc123"
 ```
@@ -28,6 +32,10 @@ Devuelve el estado actual del pedido y sus datos visibles para el comprador.
 GET /v3/tracking/{order_uid}/tracking?token={token_de_seguimiento}
 ```
 
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/tracking/{order_uid}/tracking" method="get" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
 Devuelve los eventos del envío en orden cronológico: despachado, en camino, entregado.
 
 ## Documentos
@@ -35,6 +43,10 @@ Devuelve los eventos del envío en orden cronológico: despachado, en camino, en
 ```http
 GET /v3/tracking/{order_uid}/documents?token={token_de_seguimiento}
 ```
+
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/tracking/{order_uid}/documents" method="get" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
 
 Devuelve los documentos asociados a la orden —etiqueta, remito, factura— cuando existen.
 

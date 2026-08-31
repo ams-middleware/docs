@@ -10,6 +10,10 @@ Public-API sirve las imágenes de producto y aplica las transformaciones **en el
 GET /v3/multimedia/{client_uid}/image/{uid}/{position}
 ```
 
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/multimedia/{client_uid}/image/{uid}/{position}" method="get" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
 | Parte de la ruta | Qué es |
 | --- | --- |
 | `client_uid` | Identificador de su cliente |

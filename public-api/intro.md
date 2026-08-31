@@ -33,6 +33,10 @@ Especificación OpenAPI 3 de Public-API
 
 Ese archivo se puede importar en Postman, Insomnia o Swagger UI, y sirve para generar clientes automáticamente en el lenguaje que use su equipo.
 
+{% hint style="success" %}
+**Las tablas de parámetros de esta documentación se generan desde esa especificación.** Cuando cambia la API, cambian solas: no hay una copia escrita a mano que pueda quedar desactualizada.
+{% endhint %}
+
 ## Qué ofrece
 
 {% content-ref url="autenticacion.md" %}

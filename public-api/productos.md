@@ -22,6 +22,14 @@ POST /v3/product/base
 POST /v3/product/simple
 ```
 
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/base" method="post" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/simple" method="post" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
 ```json
 {
   "sku": "REM-NEG-XL",
@@ -44,6 +52,14 @@ PUT /v3/product/base/{uid}
 PUT /v3/product/simple/{uid}
 ```
 
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/base/{uid}" method="put" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/simple/{uid}" method="put" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
 Mismo cuerpo que la creación. El `uid` del producto va en la ruta.
 
 ### Stock y precio de un producto
@@ -51,6 +67,10 @@ Mismo cuerpo que la creación. El `uid` del producto va en la ruta.
 ```http
 PUT /v3/product/simple/inventory
 ```
+
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/simple/inventory" method="put" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
 
 ```json
 { "sku": "REM-NEG-XL", "stock": 42, "price": 15990.00 }
@@ -66,6 +86,14 @@ Para cargas masivas, los endpoints de **bulk** reciben un arreglo de productos e
 POST /v3/product/bulk/base
 POST /v3/product/bulk/simple
 ```
+
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/bulk/base" method="post" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/bulk/simple" method="post" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
 
 ```json
 {
@@ -86,6 +114,10 @@ POST /v3/product/bulk/simple
 ```http
 PUT /v3/product/bulk/inventory
 ```
+
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/bulk/inventory" method="put" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
 
 ```json
 {

@@ -22,6 +22,11 @@ Public-API expone un endpoint **OData v4** de solo lectura para conectar herrami
 
 ## Parámetros de consulta
 
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/odata/orders" method="get" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
+
 `/odata/orders` acepta los operadores estándar de OData:
 
 | Parámetro | Ejemplo | Para qué |

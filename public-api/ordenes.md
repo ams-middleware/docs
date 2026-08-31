@@ -12,11 +12,9 @@ Public-API permite **consultar** las órdenes de su cliente. El alcance lo defin
 GET /v3/order/search?value=ABC123&page=1&limit=10
 ```
 
-| Parámetro | Tipo | Default | Para qué |
-| --- | --- | --- | --- |
-| `value` | string | — | Texto libre de búsqueda |
-| `page` | entero | `1` | Página |
-| `limit` | entero | `10` | Resultados por página (máximo **300**) |
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/order/search" method="get" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
 
 ```bash
 curl -X GET "https://su-host.e-middleware.ar/v3/order/search?limit=10" \
@@ -54,6 +52,10 @@ Content-Type: application/json
 | `sort` | `field` más `order_by` (`asc` o `desc`) |
 | `page` · `limit` | Paginado. `limit` máximo **300** |
 
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/order/search" method="post" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
+
 ### Operadores disponibles
 
 | Operador | Significado | Ejemplo de `value` |
@@ -71,6 +73,10 @@ Content-Type: application/json
 ```http
 GET /v3/order/{uid}
 ```
+
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/order/{uid}" method="get" %}
+https://api.beta.e-middleware.com/docs.json
+{% endopenapi %}
 
 ```bash
 curl -X GET "https://su-host.e-middleware.ar/v3/order/ORD000123456" \
