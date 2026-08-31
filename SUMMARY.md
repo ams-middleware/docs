@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Bienvenido](README.md)
 
 ## Public API
 
@@ -14,12 +14,10 @@
 * [Chat con IA](public-api/chat.md)
 * [Integraciones](public-api/integraciones.md)
 
-## Store APIs
+## Webhook API
 
-* [Intro](store-apis/intro.md)
-* [Order Services](store-apis/order-services.md)
-* [Product Services](store-apis/product-services.md)
+* [Intro](webhook-api/intro.md)
 
-## control api
+## Control API
 
-* [intro](control-api/intro.md)
+* [Intro](control-api/intro.md)

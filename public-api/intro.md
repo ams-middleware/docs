@@ -8,8 +8,6 @@ description: >-
 
 **Public-API** es el microservicio de integración pública del ecosistema E-MW. Expone las operaciones que un sistema externo necesita para trabajar contra el middleware: consultar y crear órdenes, dar de alta productos, actualizar inventario y precios, seguir un envío y extraer datos para reporting.
 
-Es el servicio que reemplaza a **Store-API** en los clientes nuevos. Si su integración ya usa Store-API, siga en [Store APIs](../store-apis/intro.md).
-
 ## URL base
 
 Cada cliente tiene su propio host. El que corresponde a su cuenta se lo entrega el equipo de E-MW junto con el token.

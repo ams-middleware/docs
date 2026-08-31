@@ -1,24 +1,55 @@
 ---
 description: >-
-  E-MW APIs es un ecosistema de microservicios donde cada uno cumple una función
-  específica dentro de la arquitectura del sistema.
+  Documentación técnica de los servicios públicos del ecosistema E-MW: cómo
+  conectarse, autenticarse y operar desde su propio sistema.
 ---
 
-# Welcome!
+# Bienvenido
 
-Estos microservicios están diseñados para trabajar de manera independiente pero coordinada, permitiendo una mayor flexibilidad y escalabilidad en la arquitectura del sistema. Cada API se enfoca en una tarea específica, lo que facilita su mantenimiento y actualización sin afectar al resto del ecosistema.
+Esta es la documentación técnica de **E-MW**, pensada para los equipos de desarrollo que integran un sistema externo con el middleware.
 
-Dentro de este ecosistema, encontramos varios microservicios clave que trabajan en conjunto para proporcionar una solución integral. Algunos de estos incluyen servicios para la gestión de usuarios, procesamiento de pagos, manejo de inventario y análisis de datos en tiempo real. Cada uno de estos componentes está diseñado para ser robusto, eficiente y fácilmente integrable con el resto del sistema, lo que permite una adaptación rápida a las cambiantes necesidades del negocio.
+Acá encontrará únicamente los **servicios públicos**: los que exponen una interfaz para que su plataforma —tienda, ERP, marketplace o desarrollo propio— consuma o alimente datos. Los servicios internos del ecosistema no se documentan porque no son accesibles desde afuera.
 
+{% hint style="info" %}
+¿Busca cómo se usa el panel? Eso está en el [manual de usuario](https://docs.e-middleware.com/).
+{% endhint %}
 
+***
 
-Entre los microservicios, podemos destacar aquellos de acceso público como:&#x20;
+## Servicios públicos
 
-* **Store-Api** [intro.md](store-apis/intro.md "mention")&#x20;
-* **Store-Web** [https://admin.e-middleware.dev/](https://admin.e-middleware.dev/)
-* **Control-Api** [intro.md](control-api/intro.md "mention")
-* **Control-Web "**&#x70;róximamente"
+### 🔹 Public-API
 
-Cada microservicio público desempeña un rol crucial en las operaciones del negocio. Store-api y store-web gestionan órdenes de compra, cambios y devoluciones sin necesidad de una plataforma e-commerce externa. Control-api ofrece herramientas para administración y monitoreo, mientras que control-web, próximamente, proporcionará una interfaz intuitiva para los administradores.
+El servicio de integración principal. Permite consultar órdenes, crear productos, actualizar stock y precios, seguir un envío, servir imágenes de catálogo y extraer datos para reporting.
 
-##
+{% content-ref url="public-api/intro.md" %}
+[intro.md](public-api/intro.md)
+{% endcontent-ref %}
+
+### 🔹 Webhook-API
+
+Recibe las notificaciones que las plataformas externas envían al middleware —cambios de estado, nuevas órdenes, eventos de mensajería— y las traduce a acciones internas. Es el sentido inverso de Public-API: en lugar de que usted consulte, la plataforma avisa.
+
+| Endpoint | Para qué |
+| --- | --- |
+| `POST /v3/callback/{connector_uid}` | Callback genérico de un conector |
+| `POST /v3/callback/mercadolibre` | Notificaciones de MercadoLibre |
+| `GET`/`POST` `/v1/meta/whatsapp` | Verificación y recepción de mensajes de WhatsApp |
+
+> Documentación detallada en preparación.
+
+### 🔹 Control-API
+
+La API de administración del middleware: configuración de tiendas, conectores, atributos y catálogos. La consume el panel de administración.
+
+> Documentación detallada en preparación.
+
+***
+
+## Antes de empezar
+
+1. Pida al equipo de E-MW el **token de su conector** y la **URL de su cuenta**.
+2. Lea la [guía de autenticación](public-api/autenticacion.md).
+3. Pruebe contra el entorno de pruebas antes de apuntar a producción.
+
+Todas las referencias de endpoints de esta documentación se generan desde la **especificación OpenAPI** publicada por cada servicio, así que reflejan siempre el contrato vigente.
