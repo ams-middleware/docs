@@ -11,6 +11,8 @@
 * [Seguimiento](public-api/seguimiento.md)
 * [Multimedia](public-api/multimedia.md)
 * [Reporting (OData)](public-api/reporting.md)
+* [Chat con IA](public-api/chat.md)
+* [Integraciones](public-api/integraciones.md)
 
 ## Store APIs
 

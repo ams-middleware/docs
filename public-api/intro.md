@@ -59,6 +59,14 @@ Ese archivo se puede importar en Postman, Insomnia o Swagger UI, y sirve para ge
 [reporting.md](reporting.md)
 {% endcontent-ref %}
 
+{% content-ref url="chat.md" %}
+[chat.md](chat.md)
+{% endcontent-ref %}
+
+{% content-ref url="integraciones.md" %}
+[integraciones.md](integraciones.md)
+{% endcontent-ref %}
+
 ## Formato de las respuestas
 
 Todas las respuestas son JSON. Los listados devuelven los resultados junto con la información de paginado:

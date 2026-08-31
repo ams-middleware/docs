@@ -56,7 +56,7 @@ Algunos endpoints son públicos por diseño y no requieren token, porque los con
 | `GET /v3/tracking/{order_uid}/tracking` | Historial de estados del envío |
 | `GET /v3/tracking/{order_uid}/documents` | Documentos asociados a la orden |
 | `GET /v3/multimedia/{client_uid}/image/{uid}/{position}` | Imagen de producto |
-| `GET /v3/integration/search` | Catálogo de integraciones disponibles |
+| `GET /v3/integration/search` | [Catálogo de integraciones](integraciones.md) disponibles |
 | `GET /odata` · `GET /odata/$metadata` | Documento de servicio y metadatos OData |
 
 ## Errores de autenticación
