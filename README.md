@@ -14,7 +14,8 @@ Dentro de este ecosistema, encontramos varios microservicios clave que trabajan 
 
 Entre los microservicios, podemos destacar aquellos de acceso público como:&#x20;
 
-* **Store-Api** [intro.md](store-apis/intro.md "mention")&#x20;
+* **Public-Api** [intro.md](public-api/intro.md "mention") — el servicio de integración vigente
+* **Store-Api** [intro.md](store-apis/intro.md "mention") — versión anterior, para las integraciones que ya la usan
 * **Store-Web** [https://admin.e-middleware.dev/](https://admin.e-middleware.dev/)
 * **Control-Api** [intro.md](control-api/intro.md "mention")
 * **Control-Web "**próximamente"
