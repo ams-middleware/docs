@@ -48,6 +48,26 @@ qué etapa quedó trabada y con qué error.
 si está seguro de que la venta no se concreta.
 {% endhint %}
 
+## Cuándo no puede editarla
+
+A veces **Editar** no está disponible. Son dos motivos distintos y la pantalla le dice cuál es:
+
+| Lo que ve | Qué está pasando | Qué hacer |
+|---|---|---|
+| **La orden se está procesando** | El workflow está ejecutando una etapa sobre ella. | Esperar. Se libera cuando el circuito termina, o si alguna etapa falla. |
+| **Otro usuario la tiene abierta** | Alguien más la está editando en este momento. | Esperar a que la cierre. Si tiene el permiso, puede **Forzar edición**. |
+
+{% hint style="warning" %}
+⚠️ El bloqueo por workflow **no se puede forzar**. Mientras el circuito corre, la plataforma está
+escribiendo la orden: editarla al mismo tiempo pisaría esos cambios.
+{% endhint %}
+
+{% hint style="info" %}
+💡 Si una orden queda bloqueada por el workflow más tiempo del razonable, mire la pestaña
+**Workflow**: seguramente hay una etapa esperando su próximo intento. Ver
+[Workflow de órdenes](../../configuracion/workflows.md).
+{% endhint %}
+
 ## Versionar
 
 Genera una orden nueva a partir de una **completada**, sin volver a cargarla. Sirve típicamente
