@@ -8,6 +8,11 @@ Public-API permite **consultar** las órdenes de su cliente. El alcance lo defin
 
 ## Listado simple
 
+{% hint style="warning" %}
+**Este endpoint todavía no está operativo.** Use la [búsqueda avanzada](#busqueda-avanzada), que cubre
+el mismo caso con `POST` y ofrece filtros.
+{% endhint %}
+
 ```http
 GET /v3/order/search?value=ABC123&page=1&limit=10
 ```

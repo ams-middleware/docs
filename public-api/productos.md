@@ -35,15 +35,32 @@ https://api.beta.e-middleware.com/docs.json
   "sku": "REM-NEG-XL",
   "name": "Remera negra talle XL",
   "ref_code": "REM-001",
-  "upc": "7791234567890",
-  "category": "REMERAS",
+  "ean": "7791234567890",
+  "upc": "012345678905",
+  "category": "remeras",
   "multimedia_uid": "ABC000123456",
-  "attributes": [ { "uid": "COLOR", "value": "Negro" } ],
-  "parents": [ { "uid": "REM-BASE-001" } ]
+  "attributes": {
+    "color": { "value": "Negro" },
+    "talles": { "value": ["S", "M", "L"] }
+  },
+  "parents": ["REM-BASE-001"]
 }
 ```
 
 El único campo obligatorio es **`sku`**. El resto depende de lo que su catálogo necesite.
+
+Tres detalles del formato que conviene mirar bien:
+
+* **`attributes` es un objeto**, indexado por el identificador del atributo — no una lista. Esa clave
+  es la que identifica al atributo: no hace falta repetirla adentro.
+* **`attributes[].value` va con su tipo natural**: texto para `text`/`html`/`date`, número para
+  `number`, booleano para `boolean`, lista para `list`, objeto para `json`. Si el atributo admite
+  varios valores a la vez, se manda un objeto `{ "<tipo>": valor }`.
+* **`parents` es una lista de SKU** de los productos base a los que pertenece la variación.
+
+`ean` y `upc` son los códigos de barra del producto. `category` y `multimedia_uid` van como el
+identificador suelto. La **marca** no tiene campo propio: va dentro de `attributes`, como cualquier
+otro atributo del catálogo.
 
 ### Actualizar
 
@@ -60,15 +77,21 @@ https://api.beta.e-middleware.com/docs.json
 https://api.beta.e-middleware.com/docs.json
 {% endopenapi %}
 
-Mismo cuerpo que la creación. El `uid` del producto va en la ruta.
+Mismo cuerpo que la creación, con dos diferencias:
+
+* **El `uid` del producto va en la ruta**, no en el cuerpo.
+* **El cuerpo es parcial**: un campo que no mande queda como estaba. Para vaciar un valor hay que
+  mandarlo explícitamente en blanco.
+
+El `sku` no se puede cambiar: identifica al producto dentro de su cliente y se ignora si viene.
 
 ### Stock y precio de un producto
 
 ```http
-PUT /v3/product/simple/inventory
+PUT /v3/product/inventory
 ```
 
-{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/simple/inventory" method="put" %}
+{% openapi src="https://api.beta.e-middleware.com/docs.json" path="/v3/product/inventory" method="put" %}
 https://api.beta.e-middleware.com/docs.json
 {% endopenapi %}
 

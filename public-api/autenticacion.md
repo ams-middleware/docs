@@ -65,3 +65,22 @@ Algunos endpoints son públicos por diseño y no requieren token, porque los con
 | --- | --- | --- |
 | `401` | Falta el encabezado, el token es inválido o está mal formado | Verifique que envía `Authorization: Bearer <token>` completo |
 | `403` | El token es válido pero no tiene permiso para esa operación | El conector no tiene habilitado ese permiso; consulte con E-MW |
+
+## Permisos del conector
+
+Además de ser válido, su token tiene que tener **habilitado el permiso** de la operación. Los permisos se configuran por conector; si necesita uno que no tiene, pídalo al equipo de E-MW.
+
+| Permiso | Habilita |
+| --- | --- |
+| `API_ORDER_READ` | Consultar y buscar órdenes |
+| `API_PRODUCT_WRITE` | Crear productos |
+| `API_PRODUCT_STOCK` | Actualizar stock |
+| `API_PRODUCT_PRICE` | Actualizar precios |
+| `API_REPORTING_READ` | Consultar el feed OData |
+| `API_CHAT` | Usar el asistente con IA |
+
+Una operación sin el permiso correspondiente responde **`403`** con el detalle de qué falta.
+
+{% hint style="info" %}
+**Stock y precio son permisos separados.** Un conector puede actualizar stock sin poder tocar precios. En una llamada que trae los dos, se aplica lo que esté habilitado y se rechaza el resto.
+{% endhint %}
